@@ -1,0 +1,655 @@
+EquipoLocal,EquipoVisitante,Año,GolesLocal,GolesVisitante,GolesTotales
+Argentina,Venezuela,2022,3,0,3
+Brasil,Serbia,2022,2,0,2
+Brasil,Suiza,2022,1,0,1
+Camerún,Brasil,2022,1,0,1
+Brasil,Corea del Sur,2022,4,1,5
+Croacia,Brasil,2022,1,1,2
+Colombia,Guatemala,2022,4,1,5
+ArabiaSaudita,Colombia,2022,0,1,1
+Venezuela,Colombia,2022,0,1,1
+Catar,Jamaica,2022,1,1,2
+Camerún,Jamaica,2022,1,1,2
+Argentina,Colombia,2022,1,0,1
+Colombia,Perú,2022,0,1,1
+Colombia,Honduras,2022,2,1,3
+ElSalvador,Perú,2022,1,4,5
+México,Perú,2022,1,0,1
+Australia,Perú,2022,0,0,0
+Perú,Nueva Zelanda,2022,1,0,1
+Uruguay,Perú,2022,1,0,1
+Perú,Ecuador,2022,1,1,2
+Perú,Panamá,2022,1,1,2
+Ecuador,Argentina,2022,1,1,2
+Italia,Argentina,2022,0,3,3
+Argentina,Estonia,2022,5,0,5
+Argentina,Honduras,2022,3,0,3
+Argentina,Jamaica,2022,3,0,3
+Emiratos Árabes Unidos,Argentina,2022,0,5,5
+Argentina,Arabia Saudita,2022,1,2,3
+Brasil,Túnez,2022,5,1,6
+Argentina,México,2022,2,0,2
+Brasil,Ghana,2022,3,0,3
+Corea del Sur,Brasil,2022,1,5,6
+Panamá,Arabia Saudita,2022,1,1,2
+Venezuela,Panamá,2022,2,2,4
+Camerún,Panamá,2022,1,1,2
+Eslovaquia,Chile,2022,0,0,0
+Polonia,Chile,2022,1,0,1
+Malta,Venezuela,2022,0,1,1
+Catar,Chile,2022,2,2,4
+Marruecos,Chile,2022,2,0,2
+Ghana,Chile,2022,0,0,0
+Chile,Túnez,2022,0,2,2
+Corea del Sur,Chile,2022,2,0,2
+Arabia Saudita,México,2022,1,2,3
+Chile,Uruguay,2022,0,2,2
+Chile,Argentina,2022,1,2,3
+Colombia,Paraguay,2022,2,0,2
+Perú,Paraguay,2022,1,0,1
+Paraguay,Marruecos,2022,0,0,0
+Paraguay,Emiratos Árabes Unidos,2022,1,0,1
+México,Paraguay,2022,0,1,1
+CoreadelSur,Paraguay,2022,2,2,4
+Japón,Paraguay,2022,4,1,5
+Perú,Paraguay,2022,2,0,2
+Paraguay,Ecuador,2022,3,1,4
+Paraguay,Uruguay,2022,0,1,1
+Ecuador,Brasil,2022,1,1,2
+Brasil,Paraguay,2022,4,0,4
+Brasil,Chile,2022,4,0,4
+Japón,Brasil,2022,0,1,1
+Polonia,Argentina,2022,0,2,2
+Perú,Jamaica,2022,3,0,3
+Países Bajos,Argentina,2022,2,2,4
+Uruguay,Corea del Sur,2022,0,0,0
+Canadá,Uruguay,2022,0,2,2
+Irán,Uruguay,2022,1,0,1
+Argentina,Australia,2022,2,1,3
+Estados Unidos,Uruguay,2022,0,0,0
+México,Uruguay,2022,0,3,3
+Uruguay,Venezuela,2022,4,1,5
+Ecuador,Senegal,2022,1,2,3
+Países Bajos,Ecuador,2022,1,1,2
+Catar,Ecuador,2022,0,2,2
+Ecuador,Irak,2022,0,0,0
+Bolívia,Trinidad y Tobago,2022,5,0,5
+Venezuela,Bolívia,2022,4,1,5
+Bolívia,Chile,2022,2,3,5
+Colombia,Bolívia,2022,3,0,3
+Bolívia,Brasil,2022,0,4,4
+Bolívia,Senegal,2022,0,2,2
+Perú,Bolívia,2022,1,0,1
+Japón,Ecuador,2022,0,0,0
+Arabia Saudita,Ecuador,2022,0,0,0
+Ecuador,Cabo Verde,2022,1,0,1
+México,Ecuador,2022,0,0,0
+Ecuador,Nigeria,2022,1,0,1
+Siria,Venezuela,2022,1,2,3
+Emiratos Árabes Unidos,Venezuela,2022,0,4,4
+Venezuela,Islandia,2022,0,1,1
+Arabia Saudita,Venezuela,2022,0,1,1
+Portugal,Uruguay,2022,2,0,2
+Ghana,Uruguay,2022,0,2,2
+Uruguay,Panamá,2022,5,0,5
+Costa Rica,Nigeria,2022,2,0,2
+Estados Unidos,Gales,2022,1,1,2
+Inglaterra,Estados Unidos,2022,0,0,0
+Irán,Estados Unidos,2022,0,1,1
+Países Bajos,Estados Unidos,2022,3,1,4
+Costa Rica,Martinique,2022,2,0,2
+Japón,Costa Rica,2022,0,1,1
+Costa Rica,Nueva Zelanda,2022,1,0,1
+Uzbekistán,Costa Rica,2022,1,2,3
+España,Costa Rica,2022,7,0,7
+Argentina,Francia,2022,3,3,6
+Argentina,Croacia,2022,3,0,3
+Corea del Sur,Costa Rica,2022,2,2,4
+Costa Rica,Alemania,2022,2,4,6
+Arabia Saudita,Costa Rica,2023,1,3,4
+Paraguay,Colombia,2023,0,1,1
+Costa Rica,Martinique,2023,6,4,10
+El Salvador,Costa Rica,2023,0,0,0
+Venezuela,Honduras,2023,1,0,1
+Venezuela,Guatemala,2023,1,0,1
+Venezuela,Paraguay,2023,1,0,1
+Uzbekistán,Venezuela,2023,1,1,2
+Arabia Saudita,Venezuela,2023,1,2,3
+Costa Rica,Guatemala,2023,0,1,1
+Chile,Paraguay,2023,3,2,5
+Chile,Cuba,2023,3,0,3
+Chile,República Dominicana,2023,5,0,5
+Uruguay,Chile,2023,3,1,4
+Chile,Colombia,2023,0,0,0
+Chile,Perú,2023,2,0,2
+Ecuador,Costa Rica,2023,3,1,4
+Martinique,Costa Rica,2023,1,2,3
+Paraguay,Perú,2023,0,0,0
+Corea del Sur,Uruguay,2023,1,2,3
+Costa Rica,Emiratos Árabes Unidos,2023,1,4,5
+Japón,Uruguay,2023,1,1,2
+Estados Unidos,Colombia,2023,0,0,0
+CoreadelSur,Colombia,2023,2,2,4
+Japón,Colombia,2023,1,2,3
+Colombia,Irak,2023,1,0,1
+Alemania,Colombia,2023,0,2,2
+Colombia,Uruguay,2023,2,2,4
+Uruguay,Cuba,2023,2,0,2
+Ecuador,Uruguay,2023,2,1,3
+Perú,Venezuela,2023,1,1,2
+Japón,Perú,2023,4,1,5
+CoreadelSur,Perú,2023,0,1,1
+Marruecos,Perú,2023,0,0,0
+Venezuela,Ecuador,2023,0,0,0
+Australia,Ecuador,2023,1,2,3
+Australia,Ecuador,2023,3,1,4
+Ecuador,Colombia,2023,0,0,0
+Colombia,Venezuela,2023,1,0,1
+Alemania,Perú,2023,2,0,2
+Uruguay,Nicaragua,2023,4,1,5
+Venezuela,Chile,2023,3,0,3
+Paraguay,Nicaragua,2023,2,0,2
+Chile,Paraguay,2023,0,0,0
+Guatemala,Panamá,2023,1,1,2
+Jamaica,Canadá,2023,1,2,3
+Ecuador,Bolívia,2023,1,0,1
+Bolívia,Chile,2023,0,0,0
+Canadá,Jamaica,2023,2,3,5
+Ecuador,Chile,2023,1,0,1
+Guatemala,Jamaica,2023,0,0,0
+Haití,Jamaica,2023,2,3,5
+Grenada,Jamaica,2023,1,4,5
+Jamaica,Haití,2023,2,2,4
+Arabia Saudita,Bolívia,2023,1,2,3
+Jamaica,Honduras,2023,1,0,1
+Guatemala,Jamaica,2023,0,1,1
+Jamaica,St. Kitts and Nevis,2023,5,0,5
+Jamaica,Trinidad y Tobago,2023,4,1,5
+Jamaica,Jordania,2023,1,2,3
+Jamaica,Catar,2023,1,2,3
+Bolívia,Panamá,2023,1,2,3
+Estados Unidos,Omán,2023,4,0,4
+México,Jamaica,2023,2,2,4
+Jamaica,México,2023,0,3,3
+Uzbekistán,Bolívia,2023,1,0,1
+Estados Unidos,Trinidad y Tobago,2023,6,0,6
+St. Kitts and Nevis,Estados Unidos,2023,0,6,6
+Estados Unidos,México,2023,1,1,2
+Estados Unidos,El Salvador,2023,1,0,1
+Grenada,Estados Unidos,2023,7,1,8
+Estados Unidos,Colombia,2023,0,0,0
+Estados Unidos,Serbia,2023,1,2,3
+Estados Unidos,Alemania,2023,1,3,4
+Estados Unidos,Ghana,2023,4,0,4
+Estados Unidos,Trinidad y Tobago,2023,3,0,3
+Brasil,Argentina,2023,0,1,1
+Argentina,Uruguay,2023,0,2,2
+Perú,Argentina,2023,0,2,2
+Argentina,Paraguay,2023,1,0,1
+Argentina,Ecuador,2023,1,0,1
+Indonesia,Argentina,2023,0,2,2
+Argentina,Australia,2023,2,0,2
+Argentina,Curacao,2023,7,0,7
+Argentina,Panamá,2023,2,0,2
+Trinidad y Tobago,Estados Unidos,2023,2,1,3
+Estados Unidos,Jamaica,2023,1,1,2
+Jamaica,Trinidad y Tobago,2023,0,0,0
+Jamaica,Trinidad y Tobago,2023,0,1,1
+Estados Unidos,Canadá,2023,2,2,4
+Brasil,Bolívia,2023,5,1,6
+Panamá,México,2023,0,1,1
+México,Camerún,2023,2,2,4
+Uruguay,Bolívia,2023,3,0,3
+México,Guatemala,2023,2,0,2
+Suriname,México,2023,0,2,2
+Estados Unidos,Panamá,2023,1,1,2
+Panamá,Costa Rica,2023,3,1,4
+Costa Rica,Panamá,2023,0,3,3
+Panamá,Guatemala,2023,3,0,3
+Curacao,Panamá,2023,1,2,3
+Panamá,Martinique,2023,3,0,3
+Panamá,Catar,2023,4,0,4
+Panamá,El Salvador,2023,2,2,4
+Martinique,Panamá,2023,1,2,3
+Costa Rica,Panamá,2023,1,2,3
+Panamá,Canadá,2023,0,2,2
+Panamá,Nicaragua,2023,3,2,5
+Costa Rica,Panamá,2023,0,1,1
+Estados Unidos,Uzbekistán,2023,3,0,3
+México,Honduras,2023,4,0,4
+Estados Unidos,México,2023,3,0,3
+Haití,México,2023,1,3,4
+México,Costa Rica,2023,2,0,2
+Colombia,Brasil,2023,2,1,3
+Uruguay,Brasil,2023,2,0,2
+Brasil,Venezuela,2023,1,1,2
+Perú,Brasil,2023,0,1,1
+Brasil,Senegal,2023,2,4,6
+Brasil,Guinea,2023,4,1,5
+Marruecos,Brasil,2023,2,1,3
+Bolívia,Argentina,2023,0,3,3
+Bolívia,Ecuador,2023,1,2,3
+Paraguay,Bolívia,2023,1,0,1
+Bolívia,Perú,2023,2,0,2
+México,Colombia,2023,2,3,5
+México,Honduras,2023,2,0,2
+Honduras,México,2023,2,0,2
+México,Alemania,2023,2,2,4
+México,Ghana,2023,2,0,2
+México,Uzbekistán,2023,3,3,6
+México,Australia,2023,2,2,4
+México,Panamá,2023,1,0,1
+México,Catar,2023,0,1,1
+Canadá,Estados Unidos,2023,0,2,2
+Guatemala,Venezuela,2024,0,0,0
+Estados Unidos,Jamaica,2024,3,1,4
+México,Estados Unidos,2024,0,2,2
+Italia,Venezuela,2024,2,1,3
+Argelia,Bolívia,2024,3,2,5
+Bolívia,Andorra,2024,1,0,1
+Estados Unidos,Eslovenia,2024,0,1,1
+Ecuador,Guatemala,2024,2,0,2
+Albania,Chile,2024,0,3,3
+Costa de Marfil,Uruguay,2024,2,1,3
+Francia,Chile,2024,3,2,5
+Panamá,Guyana,2024,2,0,2
+Perú,Paraguay,2024,0,0,0
+Colombia,Rumania,2024,3,2,5
+España,Colombia,2024,0,1,1
+Panamá,México,2024,0,3,3
+México,Uruguay,2024,0,4,4
+Inglaterra,Brasil,2024,0,1,1
+España,Brasil,2024,3,3,6
+Perú,República Dominicana,2024,4,1,5
+Perú,Nicaragua,2024,2,0,2
+Costa Rica,St. Kitts and Nevis,2024,4,0,4
+Costa Rica,Uruguay,2024,0,0,0
+Costa Rica,Honduras,2024,3,1,4
+Costa Rica,El Salvador,2024,2,0,2
+Trinidad y Tobago,Jamaica,2024,0,1,1
+Trinidad y Tobago,Jamaica,2024,0,0,0
+Panamá,Jamaica,2024,0,1,1
+Jamaica,República Dominicana,2024,1,0,1
+Argentina,El Salvador,2024,3,0,3
+Argentina,Costa Rica,2024,3,1,4
+Ecuador,Italia,2024,0,2,2
+México,Bolívia,2024,1,0,1
+Argentina,Ecuador,2024,1,0,1
+Estados Unidos,Colombia,2024,1,5,6
+Dominica,Jamaica,2024,2,3,5
+México,Brasil,2024,2,3,5
+Francia,Canadá,2024,0,0,0
+Montserrat,Panamá,2024,1,3,4
+Chile,Paraguay,2024,3,0,3
+Grenada,Costa Rica,2024,0,3,3
+Venezuela,Brasil,1975,0,4,4
+Venezuela,Argentina,1975,1,5,6
+Brasil,Argentina,1975,2,1,3
+Argentina,Venezuela,1975,11,0,11
+Brasil,Venezuela,1975,6,0,6
+Argentina,Brasil,1975,0,1,1
+Chile,Perú,1975,1,1,2
+Bolívia,Chile,1975,2,1,3
+Bolívia,Perú,1975,0,1,1
+Perú,Bolívia,1975,3,1,4
+Chile,Bolívia,1975,4,0,4
+Perú,Chile,1975,3,1,4
+Colombia,Paraguay,1975,1,0,1
+Ecuador,Paraguay,1975,2,2,4
+Ecuador,Colombia,1975,1,3,4
+Paraguay,Colombia,1975,0,1,1
+Colombia,Ecuador,1975,2,0,2
+Paraguay,Ecuador,1975,3,1,4
+Colombia,Uruguay,1975,3,0,3
+Uruguay,Colombia,1975,1,0,1
+Brasil,Perú,1975,1,3,4
+Perú,Brasil,1975,0,2,2
+Colombia,Perú,1975,1,0,1
+Perú,Colombia,1975,2,0,2
+Perú,Colombia,1975,1,0,1
+Venezuela,Colombia,1979,0,0,0
+Venezuela,Chile,1979,1,1,2
+Colombia,Chile,1979,1,0,1
+Colombia,Venezuela,1979,4,0,4
+Chile,Venezuela,1979,7,0,7
+Chile,Colombia,1979,2,0,2
+Bolívia,Argentina,1979,2,1,3
+Bolívia,Brasil,1979,2,1,3
+Brasil,Argentina,1979,2,1,3
+Argentina,Bolívia,1979,3,0,3
+Brasil,Bolívia,1979,2,0,2
+Argentina,Brasil,1979,2,2,4
+Ecuador,Paraguay,1979,1,2,3
+Ecuador,Uruguay,1979,2,1,3
+Paraguay,Ecuador,1979,2,0,2
+Uruguay,Ecuador,1979,2,1,3
+Paraguay,Uruguay,1979,0,0,0
+Uruguay,Paraguay,1979,2,2,4
+Perú,Chile,1979,1,2,3
+Chile,Perú,1979,0,0,0
+Paraguay,Brasil,1979,2,1,3
+Brasil,Paraguay,1979,2,2,4
+Paraguay,Chile,1979,3,0,3
+Chile,Paraguay,1979,1,0,1
+Paraguay,Chile,1979,0,0,0
+Uruguay,Chile,1983,2,1,3
+Uruguay,Venezuela,1983,3,0,3
+Chile,Venezuela,1983,5,0,5
+Chile,Uruguay,1983,2,0,2
+Venezuela,Uruguay,1983,1,2,3
+Venezuela,Chile,1983,0,0,0
+Ecuador,Argentina,1983,2,2,4
+Ecuador,Brasil,1983,0,1,1
+Argentina,Brasil,1983,1,0,1
+Brasil,Ecuador,1983,5,0,5
+Argentina,Ecuador,1983,2,2,4
+Brasil,Argentina,1983,0,0,0
+Bolívia,Colombia,1983,0,1,1
+Perú,Colombia,1983,1,0,1
+Bolívia,Perú,1983,1,1,2
+Colombia,Perú,1983,2,2,4
+Colombia,Bolívia,1983,2,2,4
+Perú,Bolívia,1983,2,1,3
+Perú,Uruguay,1983,0,1,1
+Uruguay,Perú,1983,1,1,2
+Paraguay,Brasil,1983,1,1,2
+Brasil,Paraguay,1983,0,0,0
+Uruguay,Brasil,1983,2,0,2
+Brasil,Uruguay,1983,1,1,2
+Argentina,Perú,1987,1,1,2
+Argentina,Ecuador,1987,3,0,3
+Perú,Ecuador,1987,1,1,2
+Brasil,Venezuela,1987,5,0,5
+Chile,Venezuela,1987,3,1,4
+Chile,Brasil,1987,4,0,4
+Paraguay,Bolívia,1987,0,0,0
+Colombia,Bolívia,1987,2,0,2
+Colombia,Paraguay,1987,3,0,3
+Chile,Colombia,1987,2,1,3
+Uruguay,Argentina,1987,1,0,1
+Colombia,Argentina,1987,2,1,3
+Uruguay,Chile,1987,1,0,1
+Ecuador,Venezuela,1993,6,1,7
+Uruguay,Estados Unidos,1993,1,0,1
+Uruguay,Venezuela,1993,2,2,4
+Ecuador,Estados Unidos,1993,2,0,2
+Venezuela,Estados Unidos,1993,3,3,6
+Ecuador,Uruguay,1993,2,1,3
+Paraguay,Chile,1993,1,0,1
+Brasil,Perú,1993,0,0,0
+Paraguay,Perú,1993,1,1,2
+Chile,Brasil,1993,3,2,5
+Perú,Chile,1993,1,0,1
+Brasil,Paraguay,1993,3,0,3
+Colombia,México,1993,2,1,3
+Argentina,Bolívia,1993,1,0,1
+Argentina,México,1993,1,1,2
+Colombia,Bolívia,1993,1,1,2
+México,Bolívia,1993,0,0,0
+Argentina,Colombia,1993,1,1,2
+Ecuador,Paraguay,1993,3,0,3
+Colombia,Uruguay,1993,1,1,2
+Argentina,Brasil,1993,1,1,2
+México,Perú,1993,4,2,6
+México,Ecuador,1993,2,0,2
+Argentina,Colombia,1993,0,0,0
+Ecuador,Colombia,1993,0,1,1
+Argentina,México,1993,2,1,3
+Uruguay,Venezuela,1995,4,1,5
+Paraguay,México,1995,2,1,3
+Uruguay,Paraguay,1995,1,0,1
+México,Venezuela,1995,3,1,4
+Paraguay,Venezuela,1995,3,2,5
+Uruguay,México,1995,1,1,2
+Colombia,Perú,1995,1,1,2
+Brasil,Ecuador,1995,1,0,1
+Colombia,Ecuador,1995,1,0,1
+Brasil,Perú,1995,2,0,2
+Ecuador,Perú,1995,2,1,3
+Brasil,Colombia,1995,3,0,3
+Estados Unidos,Chile,1995,2,1,3
+Argentina,Bolívia,1995,2,1,3
+Bolívia,Estados Unidos,1995,1,0,1
+Argentina,Chile,1995,4,0,4
+Bolívia,Chile,1995,2,2,4
+Estados Unidos,Argentina,1995,3,0,3
+Colombia,Paraguay,1995,1,1,2
+Uruguay,Bolívia,1995,2,1,3
+Estados Unidos,México,1995,0,0,0
+Brasil,Argentina,1995,2,2,4
+Uruguay,Colombia,1995,2,0,2
+Brasil,Estados Unidos,1995,1,0,1
+Colombia,Estados Unidos,1995,4,1,5
+Uruguay,Brasil,1995,1,1,2
+Paraguay,Chile,1997,1,0,1
+Ecuador,Argentina,1997,0,0,0
+Paraguay,Ecuador,1997,0,2,2
+Argentina,Chile,1997,2,0,2
+Chile,Ecuador,1997,1,2,3
+Paraguay,Argentina,1997,1,1,2
+Perú,Uruguay,1997,1,0,1
+Bolívia,Venezuela,1997,1,0,1
+Uruguay,Venezuela,1997,2,0,2
+Bolívia,Perú,1997,2,0,2
+Perú,Venezuela,1997,2,0,2
+Bolívia,Uruguay,1997,1,0,1
+México,Colombia,1997,2,1,3
+Brasil,Costa Rica,1997,5,0,5
+Colombia,Costa Rica,1997,4,1,5
+Brasil,México,1997,3,2,5
+México,Costa Rica,1997,1,1,2
+Brasil,Colombia,1997,2,0,2
+Perú,Argentina,1997,2,1,3
+Bolívia,Colombia,1997,2,1,3
+México,Ecuador,1997,1,1,2
+Brasil,Paraguay,1997,2,0,2
+Bolívia,México,1997,3,1,4
+Brasil,Perú,1997,7,0,7
+México,Perú,1997,1,0,1
+Brasil,Bolívia,1997,3,1,4
+Perú,Japón,1999,3,2,5
+Paraguay,Bolívia,1999,0,0,0
+Perú,Bolívia,1999,1,0,1
+Paraguay,Japón,1999,4,0,4
+Japón,Bolívia,1999,1,1,2
+Paraguay,Perú,1999,1,0,1
+Chile,México,1999,0,1,1
+Brasil,Venezuela,1999,7,0,7
+Brasil,México,1999,2,1,3
+Chile,Venezuela,1999,3,0,3
+México,Venezuela,1999,3,1,4
+Brasil,Chile,1999,1,0,1
+Uruguay,Colombia,1999,0,1,1
+Argentina,Ecuador,1999,3,1,4
+Uruguay,Ecuador,1999,2,1,3
+Argentina,Colombia,1999,0,3,3
+Colombia,Ecuador,1999,2,1,3
+Argentina,Uruguay,1999,2,0,2
+Perú,México,1999,3,3,6
+Paraguay,Uruguay,1999,1,1,2
+Colombia,Chile,1999,2,3,5
+Brasil,Argentina,1999,2,1,3
+Uruguay,Chile,1999,1,1,2
+México,Brasil,1999,0,2,2
+Chile,México,1999,1,2,3
+Uruguay,Brasil,1999,0,3,3
+Ecuador,Chile,2001,1,4,5
+Colombia,Venezuela,2001,2,0,2
+Chile,Venezuela,2001,1,0,1
+Colombia,Ecuador,2001,1,0,1
+Ecuador,Venezuela,2001,4,0,4
+Colombia,Chile,2001,2,0,2
+Perú,Paraguay,2001,3,3,6
+Brasil,México,2001,0,1,1
+Brasil,Perú,2001,2,0,2
+Paraguay,México,2001,0,0,0
+Perú,México,2001,1,0,1
+Brasil,Paraguay,2001,3,1,4
+Bolívia,Uruguay,2001,0,1,1
+Honduras,Costa Rica,2001,0,1,1
+Uruguay,Costa Rica,2001,1,1,2
+Honduras,Bolívia,2001,2,0,2
+Bolívia,Costa Rica,2001,0,4,4
+Honduras,Uruguay,2001,1,0,1
+Chile,México,2001,0,2,2
+Costa Rica,Uruguay,2001,1,2,3
+Colombia,Perú,2001,3,0,3
+Brasil,Honduras,2001,0,2,2
+México,Uruguay,2001,2,1,3
+Colombia,Honduras,2001,2,0,2
+Uruguay,Honduras,2001,2,2,4
+México,Colombia,2001,0,1,1
+Venezuela,Colombia,2004,0,1,1
+Perú,Bolívia,2004,2,2,4
+Colombia,Bolívia,2004,1,0,1
+Perú,Venezuela,2004,3,1,4
+Venezuela,Bolívia,2004,1,1,2
+Perú,Colombia,2004,2,2,4
+México,Uruguay,2004,2,2,4
+Argentina,Ecuador,2004,6,1,7
+Uruguay,Ecuador,2004,2,1,3
+Argentina,México,2004,0,1,1
+México,Ecuador,2004,2,1,3
+Argentina,Uruguay,2004,4,2,6
+Costa Rica,Paraguay,2004,0,1,1
+Brasil,Chile,2004,1,0,1
+Brasil,Costa Rica,2004,4,1,5
+Paraguay,Chile,2004,1,1,2
+Costa Rica,Chile,2004,2,1,3
+Brasil,Paraguay,2004,1,2,3
+Perú,Argentina,2004,0,1,1
+Colombia,Costa Rica,2004,2,0,2
+Paraguay,Uruguay,2004,1,3,4
+México,Brasil,2004,0,4,4
+Argentina,Colombia,2004,3,0,3
+Brasil,Uruguay,2004,1,1,2
+Colombia,Uruguay,2004,1,2,3
+Argentina,Brasil,2004,2,2,4
+Uruguay,Perú,2007,0,3,3
+Venezuela,Bolívia,2007,2,2,4
+Bolívia,Uruguay,2007,0,1,1
+Venezuela,Perú,2007,2,0,2
+Perú,Bolívia,2007,2,2,4
+Venezuela,Uruguay,2007,0,0,0
+Ecuador,Chile,2007,2,3,5
+Brasil,México,2007,0,2,2
+Brasil,Chile,2007,3,0,3
+México,Ecuador,2007,2,1,3
+México,Chile,2007,0,0,0
+Brasil,Ecuador,2007,1,0,1
+Paraguay,Colombia,2007,5,0,5
+Argentina,Estados Unidos,2007,4,1,5
+Estados Unidos,Paraguay,2007,1,3,4
+Argentina,Colombia,2007,4,2,6
+Colombia,Estados Unidos,2007,1,0,1
+Argentina,Paraguay,2007,1,0,1
+Venezuela,Uruguay,2007,1,4,5
+Chile,Brasil,2007,1,6,7
+México,Paraguay,2007,6,0,6
+Argentina,Perú,2007,4,0,4
+Uruguay,Brasil,2007,2,2,4
+México,Argentina,2007,0,3,3
+Uruguay,México,2007,1,3,4
+Brasil,Argentina,2007,3,0,3
+Colombia,Perú,2011,0,2,2
+Argentina,Uruguay,2011,1,1,2
+Brasil,Paraguay,2011,0,0,0
+Chile,Venezuela,2011,1,2,3
+Perú,Uruguay,2011,0,2,2
+Paraguay,Venezuela,2011,0,0,0
+Perú,Venezuela,2011,4,1,5
+Uruguay,Paraguay,2011,3,0,3
+Chile,Uruguay,2015,1,0,1
+Bolívia,Perú,2015,1,3,4
+Argentina,Colombia,2015,0,0,0
+Brasil,Paraguay,2015,1,1,2
+Chile,Perú,2015,2,1,3
+Argentina,Paraguay,2015,6,1,7
+Perú,Paraguay,2015,2,0,2
+Chile,Argentina,2015,0,0,0
+Estados Unidos,Colombia,2016,0,2,2
+Costa Rica,Paraguay,2016,0,0,0
+Estados Unidos,Costa Rica,2016,4,0,4
+Colombia,Paraguay,2016,2,1,3
+Estados Unidos,Paraguay,2016,1,0,1
+Colombia,Costa Rica,2016,2,3,5
+Haiti,Perú,2016,0,1,1
+Brasil,Ecuador,2016,0,0,0
+Brasil,Haiti,2016,7,1,8
+Ecuador,Perú,2016,2,2,4
+Ecuador,Haiti,2016,4,0,4
+Brasil,Perú,2016,0,1,1
+Jamaica,Venezuela,2016,0,1,1
+México,Uruguay,2016,3,1,4
+Uruguay,Venezuela,2016,0,1,1
+México,Jamaica,2016,2,0,2
+México,Venezuela,2016,1,1,2
+Uruguay,Jamaica,2016,3,0,3
+Panamá,Bolívia,2016,2,1,3
+Argentina,Chile,2016,2,1,3
+Chile,Bolívia,2016,2,1,3
+Argentina,Panamá,2016,5,0,5
+Chile,Panamá,2016,4,2,6
+Argentina,Bolívia,2016,3,0,3
+Estados Unidos,Ecuador,2016,2,1,3
+Perú,Colombia,2016,0,0,0
+Argentina,Venezuela,2016,4,1,5
+México,Chile,2016,0,7,7
+Estados Unidos,Argentina,2016,0,4,4
+Colombia,Chile,2016,0,2,2
+Estados Unidos,Colombia,2016,0,1,1
+Argentina,Chile,2016,0,0,0
+Brasil,Bolívia,2019,3,0,3
+Venezuela,Perú,2019,0,0,0
+Bolívia,Perú,2019,1,3,4
+Brasil,Venezuela,2019,0,0,0
+Perú,Brasil,2019,0,5,5
+Bolívia,Venezuela,2019,1,3,4
+Argentina,Colombia,2019,0,2,2
+Paraguay,Catar,2019,2,2,4
+Colombia,Catar,2019,1,0,1
+Argentina,Paraguay,2019,1,1,2
+Catar,Argentina,2019,0,2,2
+Colombia,Paraguay,2019,1,0,1
+Uruguay,Ecuador,2019,4,0,4
+Japón,Chile,2019,0,4,4
+Uruguay,Japón,2019,2,2,4
+Ecuador,Chile,2019,1,2,3
+Chile,Uruguay,2019,0,1,1
+Ecuador,Japón,2019,1,1,2
+Brasil,Paraguay,2019,0,0,0
+Venezuela,Argentina,2019,0,2,2
+Colombia,Chile,2019,0,0,0
+Uruguay,Perú,2019,0,0,0
+Brasil,Argentina,2019,2,0,2
+Chile,Perú,2019,0,3,3
+Argentina,Chile,2019,2,1,3
+Brasil,Perú,2019,3,1,4
+Argentina,Chile,2021,1,1,2
+Paraguay,Bolívia,2021,3,1,4
+Chile,Bolívia,2021,1,0,1
+Argentina,Uruguay,2021,1,0,1
+Uruguay,Chile,2021,1,1,2
+Argentina,Paraguay,2021,1,0,1
+Bolívia,Uruguay,2021,0,2,2
+Chile,Paraguay,2021,0,2,2
+Uruguay,Paraguay,2021,1,0,1
+Bolívia,Argentina,2021,1,4,5
+Brasil,Venezuela,2021,3,0,3
+Colombia,Ecuador,2021,1,0,1
+Colombia,Venezuela,2021,0,0,0
+Brasil,Perú,2021,4,0,4
+Venezuela,Ecuador,2021,2,2,4
+Colombia,Perú,2021,1,2,3
+Ecuador,Perú,2021,2,2,4
+Brasil,Colombia,2021,2,1,3
+Brasil,Ecuador,2021,1,1,2
+Venezuela,Perú,2021,0,1,1
+Perú,Paraguay,2021,3,3,6
+Brasil,Chile,2021,1,0,1
+Uruguay,Colombia,2021,0,0,0
+Argentina,Ecuador,2021,3,0,3
+Brasil,Perú,2021,1,0,1
+Argentina,Colombia,2021,1,1,2
+Colombia,Perú,2021,3,2,5
+Argentina,Brasil,2021,1,0,1

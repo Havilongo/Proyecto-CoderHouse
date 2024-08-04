@@ -1,0 +1,522 @@
+,date,time,comp,round,day,venue,result,gf,ga,opponent,poss,attendance,captain,formation,referee,match_report,notes,sh,sot,dist,pk,pkatt,season,team
+0,2024-03-22,20:00,Friendlies (M),Friendlies (M),Fri,Neutral,W,3,0,sv El Salvador,,,Ángel Di María,4-1-4-1,Víctor Rivas,Match Report,,,,,0,0,2024,Argentina 
+1,2024-03-26,19:50,Friendlies (M),Friendlies (M),Tue,Neutral,W,3,1,cr Costa Rica,,,Ángel Di María,4-1-4-1,Joe Dickerson,Match Report,,,,,0,0,2024,Argentina 
+2,2024-06-09,18:00,Friendlies (M),Friendlies (M),Sun,Neutral,W,1,0,ec Ecuador,,51096.0,Ángel Di María,4-1-4-1,Drew Fischer,Match Report,,,,,0,0,2024,Argentina 
+3,2024-06-14,20:00,Friendlies (M),Friendlies (M),Fri,Neutral,W,4,1,gt Guatemala,,51713.0,Lionel Messi,4-4-2,Joe Dickerson,Match Report,,,,,1,1,2024,Argentina 
+4,2024-03-22,20:00,Friendlies (M),Friendlies (M),Fri,Neutral,W,3,0,sv El Salvador,,,Ángel Di María,4-1-4-1,Víctor Rivas,Match Report,,,,,0,0,2024,Argentina 
+5,2024-03-26,19:50,Friendlies (M),Friendlies (M),Tue,Neutral,W,3,1,cr Costa Rica,,,Ángel Di María,4-1-4-1,Joe Dickerson,Match Report,,,,,0,0,2024,Argentina 
+6,2024-06-09,18:00,Friendlies (M),Friendlies (M),Sun,Neutral,W,1,0,ec Ecuador,,51096.0,Ángel Di María,4-1-4-1,Drew Fischer,Match Report,,,,,0,0,2024,Argentina 
+7,2024-06-14,20:00,Friendlies (M),Friendlies (M),Fri,Neutral,W,4,1,gt Guatemala,,51713.0,Lionel Messi,4-4-2,Joe Dickerson,Match Report,,,,,1,1,2024,Argentina 
+8,2024-06-06,20:45,Friendlies (M),Friendlies (M),Thu,Away,L,0,4,nl Netherlands,,36060.0,Alphonso Davies,4-4-2,Rohit Saggi,Match Report,,,,,0,0,2024,Canada 
+9,2024-06-09,21:15,Friendlies (M),Friendlies (M),Sun,Away,D,0,0,fr France,,40835.0,Stephen Eustáquio,4-2-2-2,Fábio Veríssimo,Match Report,,,,,0,0,2024,Canada 
+10,2024-03-22,20:45,Friendlies (M),Friendlies (M),Fri,Neutral,W,3,0,al Albania,,,Claudio Bravo,4-2-3-1,Luca Pairetto,Match Report,,,,,0,0,2024,Chile 
+11,2024-03-26,21:00,Friendlies (M),Friendlies (M),Tue,Away,L,2,3,fr France,,,Claudio Bravo,4-2-3-1,Anthony Taylor,Match Report,,,,,0,0,2024,Chile 
+12,2024-06-11,20:00,Friendlies (M),Friendlies (M),Tue,Home,W,3,0,py Paraguay,,,Claudio Bravo,4-2-3-1,Pablo Echavarría,Match Report,,,,,0,0,2024,Chile 
+13,2024-03-22,20:30,Friendlies (M),Friendlies (M),Fri,Home,W,2,0,ni Nicaragua,,33900.0,Paolo Guerrero,3-5-2,Paulo Zanovelli,Match Report,,,,,0,0,2024,Peru 
+14,2024-03-26,20:30,Friendlies (M),Friendlies (M),Tue,Home,W,4,1,do Dominican Rep.,,,Luis Advíncula,3-2-3-2,Braulio Machado,Match Report,,,,,1,1,2024,Peru 
+15,2024-06-07,19:30,Friendlies (M),Friendlies (M),Fri,Home,D,0,0,py Paraguay,,60000.0,Renato Tapia,3-4-1-2,Guillermo Guerrero,Match Report,,,,,0,0,2024,Peru 
+16,2024-06-14,20:30,Friendlies (M),Friendlies (M),Fri,Neutral,W,1,0,sv El Salvador,,,Luis Advíncula,3-5-2,Kwinsi Williams,Match Report,,,,,0,1,2024,Peru 
+17,2024-03-21,17:00,Friendlies (M),Friendlies (M),Thu,Neutral,L,1,2,it Italy,,,Salomón Rondón,3-4-3,Rubiel Vázquez,Match Report,,,,,0,1,2024,Venezuela 
+18,2024-03-24,16:00,Friendlies (M),Friendlies (M),Sun,Neutral,D,0,0,gt Guatemala,,,Tomás Rincón,4-2-2-2,Armando Villarreal,Match Report,,,,,0,0,2024,Venezuela 
+19,2024-03-21,20:30,Friendlies (M),Friendlies (M),Thu,Neutral,W,2,0,gt Guatemala,,,Alexander Domínguez,4-2-3-1,Lukasz Szpala,Match Report,,,,,0,0,2024,Ecuador 
+20,2024-03-24,16:00,Friendlies (M),Friendlies (M),Sun,Neutral,L,0,2,it Italy,,,Pervis Estupiñán,3-4-3,Jon Freemon,Match Report,,,,,0,0,2024,Ecuador 
+21,2024-06-09,18:00,Friendlies (M),Friendlies (M),Sun,Neutral,L,0,1,ar Argentina,,51096.0,Hernán Galíndez,4-2-3-1,Drew Fischer,Match Report,,,,,0,0,2024,Ecuador 
+22,2024-06-12,20:30,Friendlies (M),Friendlies (M),Wed,Neutral,W,3,1,bo Bolivia,,,Enner Valencia,4-2-3-1,Lukasz Szpala,Match Report,,,,,1,1,2024,Ecuador 
+23,2024-06-16,15:30,Friendlies (M),Friendlies (M),Sun,Neutral,W,2,1,hn Honduras,,,Enner Valencia,4-2-3-1,Ismael Cornejo,Match Report,,,,,0,0,2024,Ecuador 
+24,2024-06-05,19:00,Friendlies (M),Friendlies (M),Wed,Neutral,L,0.0,4.0,uy Uruguay,,57862.0,Edson Álvarez,4-2-3-1,Oshane Nation,Match Report,,,,,0,0,2024,Mexico 
+25,2024-06-08,19:30,Friendlies (M),Friendlies (M),Sat,Neutral,L,2.0,3.0,br Brazil,,85249.0,Edson Álvarez,4-1-4-1,Lukasz Szpala,Match Report,,,,,0,0,2024,Mexico 
+26,2024-03-26,20:30,Friendlies (M),Friendlies (M),Tue,Neutral,L,1,2,ci Côte d'Ivoire,,,Federico Valverde,4-1-4-1,Ruddy Buquet,Match Report,,,,,0,0,2024,Uruguay 
+27,2024-06-05,19:00,Friendlies (M),Friendlies (M),Wed,Neutral,W,4,0,mx Mexico,,57862.0,José María Giménez,4-2-3-1,Oshane Nation,Match Report,,,,,0,0,2024,Uruguay 
+28,2024-06-16,17:30,Friendlies (M),Friendlies (M),Sun,Home,L,0.0,1.0,py Paraguay,,,Aníbal Godoy,5-3-2,David Gómez,Match Report,,,,,0,0,2024,Panama 
+29,2024-06-08,17:37,Friendlies (M),Friendlies (M),Sat,Home,L,1.0,5.0,co Colombia,,55494.0,Christian Pulisic,4-1-4-1,Fernando Hernández,Match Report,,,,,0,0,2024,United-States 
+30,2024-06-12,19:07,Friendlies (M),Friendlies (M),Wed,Home,D,1.0,1.0,br Brazil,,60016.0,Christian Pulisic,4-1-4-1,Said Martínez,Match Report,,,,,0,0,2024,United-States 
+31,2024-06-12,20:30,Friendlies (M),Friendlies (M),Wed,Neutral,L,1,3,ec Ecuador,,,José Sagredo,4-1-4-1,Lukasz Szpala,Match Report,,,,,0,0,2024,Bolivia 
+32,2024-06-15,17:00,Friendlies (M),Friendlies (M),Sat,Neutral,L,0,3,co Colombia,,,Luis Haquín,3-1-4-2,Daniel Quintero,Match Report,,,,,0,0,2024,Bolivia 
+33,2024-03-22,20:30,Friendlies (M),Friendlies (M),Fri,Neutral,W,1,0,es Spain,,43267.0,Luis Díaz,4-2-3-1,Michael Oliver,Match Report,,,,,0,0,2024,Colombia 
+34,2024-03-26,20:30,Friendlies (M),Friendlies (M),Tue,Neutral,W,3,2,ro Romania,,,James Rodríguez,4-3-1-2,Alejandro Muñíz,Match Report,,,,,0,0,2024,Colombia 
+35,2024-06-08,17:37,Friendlies (M),Friendlies (M),Sat,Away,W,5,1,us United States,,55494.0,James Rodríguez,4-2-3-1,Fernando Hernández,Match Report,,,,,0,0,2024,Colombia 
+36,2024-06-15,17:00,Friendlies (M),Friendlies (M),Sat,Neutral,W,3,0,bo Bolivia,,,James Rodríguez,4-2-3-1,Daniel Quintero,Match Report,,,,,0,0,2024,Colombia 
+37,2024-03-23,19:00,Friendlies (M),Friendlies (M),Sat,Away,W,1,0,eng England,,83674.0,Danilo,4-1-4-1,Artur Dias,Match Report,,,,,0,0,2024,Brazil 
+38,2024-03-26,21:30,Friendlies (M),Friendlies (M),Tue,Away,D,3,3,es Spain,,,Vinicius Júnior,4-1-4-1,António Nobre,Match Report,,,,,1,1,2024,Brazil 
+39,2024-06-08,19:30,Friendlies (M),Friendlies (M),Sat,Neutral,W,3,2,mx Mexico,,85249.0,Alisson,4-1-4-1,Lukasz Szpala,Match Report,,,,,0,0,2024,Brazil 
+40,2024-06-12,19:07,Friendlies (M),Friendlies (M),Wed,Away,D,1,1,us United States,,60016.0,Danilo,4-2-3-1,Said Martínez,Match Report,,,,,0,0,2024,Brazil 
+41,2024-03-26,19:50,Friendlies (M),Friendlies (M),Tue,Neutral,L,1,3,ar Argentina,,,Keylor Navas,5-4-1,Joe Dickerson,Match Report,,,,,0,0,2024,Costa-Rica 
+42,2024-06-07,19:30,Friendlies (M),Friendlies (M),Fri,Away,D,0,0,pe Peru,,60000.0,Fabián Balbuena,4-2-3-1,Guillermo Guerrero,Match Report,,,,,0,0,2024,Paraguay 
+43,2024-06-11,20:00,Friendlies (M),Friendlies (M),Tue,Away,L,0,3,cl Chile,,,Gustavo Gómez,4-2-3-1,Pablo Echavarría,Match Report,,,,,0,0,2024,Paraguay 
+44,2024-06-16,17:30,Friendlies (M),Friendlies (M),Sun,Away,W,1,0,pa Panama,,,Fabián Balbuena,4-3-3,David Gómez,Match Report,,,,,0,0,2024,Paraguay 
+45,2020-10-08,21:30,WCQ,WCQ — CONMEBOL (M),Thu,Home,W,1,0,ec Ecuador,58.0,,Lionel Messi,4-3-2-1,Roberto Tobar,Match Report,,8.0,2.0,,1,1,2022,Argentina 
+46,2020-10-13,16:00,WCQ,WCQ — CONMEBOL (M),Tue,Away,W,2,1,bo Bolivia,43.0,,Lionel Messi,4-3-3,Diego Haro,Match Report,,17.0,3.0,,0,0,2022,Argentina 
+47,2020-11-12,21:00,WCQ,WCQ — CONMEBOL (M),Thu,Home,D,1,1,py Paraguay,69.0,,Lionel Messi,3-4-3,Raphael Claus,Match Report,,15.0,5.0,,0,0,2022,Argentina 
+48,2020-11-17,19:30,WCQ,WCQ — CONMEBOL (M),Tue,Away,W,2,0,pe Peru,47.0,,Lionel Messi,4-4-1-1,Wilmar Roldán,Match Report,,13.0,3.0,,0,0,2022,Argentina 
+49,2021-06-03,21:00,WCQ,WCQ — CONMEBOL (M),Thu,Home,D,1,1,cl Chile,54.0,,Lionel Messi,4-2-2-2,Jesús Valenzuela,Match Report,,16.0,7.0,,1,1,2022,Argentina 
+50,2021-06-08,18:00,WCQ,WCQ — CONMEBOL (M),Tue,Away,D,2,2,co Colombia,52.0,,Lionel Messi,4-3-3,Roberto Tobar,Match Report,,15.0,8.0,,0,0,2022,Argentina 
+51,2021-09-02,20:00,WCQ,WCQ — CONMEBOL (M),Thu,Away,W,3,1,ve Venezuela,73.0,,Lionel Messi,4-4-2,Leodán González,Match Report,,17.0,10.0,,0,0,2022,Argentina 
+52,2021-09-09,20:30,WCQ,WCQ — CONMEBOL (M),Thu,Home,W,3,0,bo Bolivia,71.0,,Lionel Messi,4-4-2,Kevin Ortega,Match Report,,24.0,7.0,,0,0,2022,Argentina 
+53,2021-10-07,20:00,WCQ,WCQ — CONMEBOL (M),Thu,Away,D,0,0,py Paraguay,70.0,,Lionel Messi,4-2-3-1,Anderson Daronco,Match Report,,14.0,8.0,,0,0,2022,Argentina 
+54,2021-10-10,20:30,WCQ,WCQ — CONMEBOL (M),Sun,Home,W,3,0,uy Uruguay,62.0,,Lionel Messi,4-2-3-1,Roberto Tobar,Match Report,,23.0,10.0,,0,0,2022,Argentina 
+55,2021-10-14,20:30,WCQ,WCQ — CONMEBOL (M),Thu,Home,W,1,0,pe Peru,68.0,,Lionel Messi,4-3-3,Wilton Pereira Sampaio,Match Report,,7.0,2.0,,0,0,2022,Argentina 
+56,2021-11-12,20:00,WCQ,WCQ — CONMEBOL (M),Fri,Away,W,1,0,uy Uruguay,64.0,,Ángel Di María,4-2-3-1,Alexis Herrera,Match Report,,7.0,3.0,,0,0,2022,Argentina 
+57,2021-11-16,20:30,WCQ,WCQ — CONMEBOL (M),Tue,Home,D,0,0,br Brazil,56.0,,Lionel Messi,4-3-3,Andrés Cunha,Match Report,,9.0,3.0,,0,0,2022,Argentina 
+58,2022-01-27,21:15,WCQ,WCQ — CONMEBOL (M),Thu,Away,W,2,1,cl Chile,40.0,,Ángel Di María,4-3-3,Anderson Daronco,Match Report,,7.0,5.0,,0,0,2022,Argentina 
+59,2022-02-01,20:30,WCQ,WCQ — CONMEBOL (M),Tue,Home,W,1,0,co Colombia,56.0,,Ángel Di María,4-3-3,Raphael Claus,Match Report,,16.0,5.0,,0,0,2022,Argentina 
+60,2022-03-25,20:30,WCQ,WCQ — CONMEBOL (M),Fri,Home,W,3,0,ve Venezuela,73.0,,Lionel Messi,4-2-3-1,Kevin Ortega,Match Report,,16.0,6.0,,0,0,2022,Argentina 
+61,2022-03-29,18:30,WCQ,WCQ — CONMEBOL (M),Tue,Away,D,1,1,ec Ecuador,53.0,,Lionel Messi,4-3-3,Raphael Claus,Match Report,,6.0,2.0,,0,0,2022,Argentina 
+62,2022-06-05,20:00,Friendlies (M),Friendlies (M),Sun,Neutral,W,5,0,ee Estonia,,18332.0,Lionel Messi,4-3-1-2,Urs Schnyder,Match Report,,,,,1,1,2022,Argentina 
+63,2022-09-23,20:00,Friendlies (M),Friendlies (M),Fri,Neutral,W,3,0,hn Honduras,,64420.0,Lionel Messi,4-1-4-1,Rubiel Vázquez,Match Report,,,,,1,1,2022,Argentina 
+64,2022-09-27,20:00,Friendlies (M),Friendlies (M),Tue,Neutral,W,3,0,jm Jamaica,,,Ángel Di María,4-3-3,Marco Ortíz,Match Report,,,,,0,0,2022,Argentina 
+65,2022-11-16,19:30,Friendlies (M),Friendlies (M),Wed,Neutral,W,5,0,ae UAE,,,Lionel Messi,4-2-2-2,Ibrahim Nour El Din,Match Report,,,,,0,0,2022,Argentina 
+66,2022-11-22,13:00,World Cup,Group stage,Tue,Neutral,L,1,2,sa Saudi Arabia,69.0,88012.0,Lionel Messi,4-4-2,Slavko Vinčič,Match Report,,14.0,5.0,16.4,1,1,2022,Argentina 
+67,2022-11-26,22:00,World Cup,Group stage,Sat,Neutral,W,2,0,mx Mexico,58.0,88966.0,Lionel Messi,4-4-2,Daniele Orsato,Match Report,,5.0,2.0,21.1,0,0,2022,Argentina 
+68,2022-11-30,22:00,World Cup,Group stage,Wed,Neutral,W,2,0,pl Poland,73.0,44089.0,Lionel Messi,4-3-3,Danny Makkelie,Match Report,,22.0,10.0,16.8,0,1,2022,Argentina 
+69,2022-12-03,22:00,World Cup,Round of 16,Sat,Neutral,W,2,1,au Australia,60.0,45032.0,Lionel Messi,4-3-3,Szymon Marciniak,Match Report,,14.0,5.0,16.9,0,0,2022,Argentina 
+70,2022-12-09,22:00,World Cup,Quarter-finals,Fri,Neutral,D,2 (4),2 (3),nl Netherlands,48.0,88235.0,Lionel Messi,5-3-2,Antonio Matéu,Match Report,Argentina won on penalty kicks following extra time,13.0,4.0,21.9,1,1,2022,Argentina 
+71,2022-12-13,22:00,World Cup,Semi-finals,Tue,Neutral,W,3,0,hr Croatia,40.0,88966.0,Lionel Messi,4-4-2,Daniele Orsato,Match Report,,8.0,6.0,17.9,1,1,2022,Argentina 
+72,2022-12-18,18:00,World Cup,Final,Sun,Neutral,D,3 (4),3 (2),fr France,54.0,88966.0,Lionel Messi,4-3-3,Szymon Marciniak,Match Report,Argentina won on penalty kicks following extra time,19.0,9.0,19.2,1,1,2022,Argentina 
+73,2021-03-25,20:00,WCQ,First round,Thu,Home,W,5,1,bm Bermuda,,,Atiba Hutchinson,4-2-3-1,Armando Villarreal,Match Report,,,,,0,0,2022,Canada 
+74,2021-03-29,18:00,WCQ,First round,Mon,Away,W,11,0,ky Cayman Islands,,,Samuel Piette,4-2-3-1,Ted Unkel,Match Report,,,,,1,2,2022,Canada 
+75,2021-06-05,20:00,WCQ,First round,Sat,Away,W,7,0,aw Aruba,,45.0,Junior Hoilett,4-2-3-1,Marco Ortíz,Match Report,,,,,1,1,2022,Canada 
+76,2021-06-08,20:05,WCQ,First round,Tue,Home,W,4,0,sr Suriname,,,Milan Borjan,4-1-4-1,Nima Saghafi,Match Report,,,,,1,1,2022,Canada 
+77,2021-06-12,17:00,WCQ,Second round,Sat,Away,W,1,0,ht Haiti,,,Milan Borjan,3-4-3,John Pitti,Match Report,Leg 1 of 2,,,,0,0,2022,Canada 
+78,2021-06-15,20:05,WCQ,Second round,Tue,Home,W,3,0,ht Haiti,,,Milan Borjan,3-1-4-2,Rubiel Vázquez,Match Report,Leg 2 of 2; Canada won,,,,0,0,2022,Canada 
+79,2021-09-02,20:05,WCQ,Third round,Thu,Home,D,1,1,hn Honduras,,14822.0,Atiba Hutchinson,4-2-3-1,Fernando Guerrero,Match Report,,,,,1,1,2022,Canada 
+80,2021-09-05,19:12,WCQ,Third round,Sun,Away,D,1,1,us United States,,43028.0,Milan Borjan,3-4-3,Oshane Nation,Match Report,,,,,0,0,2022,Canada 
+81,2021-09-08,19:30,WCQ,Third round,Wed,Home,W,3,0,sv El Salvador,,14926.0,Atiba Hutchinson,3-4-3,Ricardo Montero,Match Report,,,,,0,0,2022,Canada 
+82,2021-10-07,20:40,WCQ,Third round,Thu,Away,D,1,1,mx Mexico,,40468.0,Steven Vitória,4-2-3-1,Ismael Cornejo,Match Report,,,,,0,0,2022,Canada 
+83,2021-10-10,17:00,WCQ,Third round,Sun,Away,D,0,0,jm Jamaica,,,Doneil Henry,,Keylor Herrera,Match Report,,,,,0,0,2022,Canada 
+84,2021-10-13,19:30,WCQ,Third round,Wed,Home,W,4,1,pa Panama,,26622.0,Steven Vitória,3-3-2-2,Armando Villarreal,Match Report,,,,,0,0,2022,Canada 
+85,2021-11-12,19:05,WCQ,Third round,Fri,Home,W,1,0,cr Costa Rica,,48806.0,Milan Borjan,4-2-3-1,Ismail Elfath,Match Report,,,,,0,0,2022,Canada 
+86,2021-11-16,19:05,WCQ,Third round,Tue,Home,W,2,1,mx Mexico,,44212.0,Atiba Hutchinson,3-4-3,Mario Escobar,Match Report,,,,,0,0,2022,Canada 
+87,2022-01-27,19:05,WCQ,Third round,Thu,Away,W,2,0,hn Honduras,,10000.0,Atiba Hutchinson,4-2-2-2,Daneon Parchment,Match Report,,,,,0,0,2022,Canada 
+88,2022-01-30,15:05,WCQ,Third round,Sun,Home,W,2,0,us United States,,12000.0,Milan Borjan,4-2-2-2,César Arturo Ramos,Match Report,,,,,0,0,2022,Canada 
+89,2022-02-02,20:00,WCQ,Third round,Wed,Away,W,2,0,sv El Salvador,,9000.0,Atiba Hutchinson,4-2-3-1,Armando Villarreal,Match Report,,,,,0,0,2022,Canada 
+90,2022-03-24,20:05,WCQ,Third round,Thu,Away,L,0,1,cr Costa Rica,,35000.0,Atiba Hutchinson,4-2-3-1,Said Martínez,Match Report,,,,,0,0,2022,Canada 
+91,2022-03-27,16:05,WCQ,Third round,Sun,Home,W,4,0,jm Jamaica,,29122.0,Milan Borjan,4-2-3-1,Fernando Guerrero,Match Report,,,,,0,0,2022,Canada 
+92,2022-03-30,20:05,WCQ,Third round,Wed,Away,L,0,1,pa Panama,,8000.0,Atiba Hutchinson,4-2-2-2,Jair Marrufo,Match Report,,,,,0,0,2022,Canada 
+93,2022-09-23,19:00,Friendlies (M),Friendlies (M),Fri,Neutral,W,2,0,qa Qatar,,,Junior Hoilett,4-2-3-1,Manuel Schüttengruber,Match Report,,,,,0,0,2022,Canada 
+94,2022-09-27,18:00,Friendlies (M),Friendlies (M),Tue,Neutral,L,0,2,uy Uruguay,,,Milan Borjan,3-4-1-2,Peter Kráľovič,Match Report,,,,,0,0,2022,Canada 
+95,2022-11-11,18:30,Friendlies (M),Friendlies (M),Fri,Neutral,D,2,2,bh Bahrain,,,Samuel Piette,3-4-3,Abdullah Jamali,Match Report,,,,,0,0,2022,Canada 
+96,2022-11-17,22:40,Friendlies (M),Friendlies (M),Thu,Neutral,W,2,1,jp Japan,,2971.0,Atiba Hutchinson,4-2-2-2,Omar Mohamed Al Ali,Match Report,,,,,1,1,2022,Canada 
+97,2022-11-23,22:00,World Cup,Group stage,Wed,Neutral,L,0,1,be Belgium,47.0,40432.0,Atiba Hutchinson,3-4-3,Janny Sikazwe,Match Report,,21.0,2.0,15.8,0,1,2022,Canada 
+98,2022-11-27,19:00,World Cup,Group stage,Sun,Neutral,L,1,4,hr Croatia,51.0,44374.0,Atiba Hutchinson,4-4-2,Andrés Matonte,Match Report,,8.0,2.0,23.4,0,0,2022,Canada 
+99,2022-12-01,18:00,World Cup,Group stage,Thu,Neutral,L,1,2,ma Morocco,58.0,43102.0,Milan Borjan,4-4-1-1,Raphael Claus,Match Report,,5.0,0.0,11.5,0,0,2022,Canada 
+100,2020-10-08,19:45,WCQ,WCQ — CONMEBOL (M),Thu,Away,L,1,2,uy Uruguay,49.0,,Alexis Sánchez,4-4-2,Eber Aguino,Match Report,,7.0,3.0,,0,0,2022,Chile 
+101,2020-10-13,21:30,WCQ,WCQ — CONMEBOL (M),Tue,Home,D,2,2,co Colombia,46.0,,Alexis Sánchez,4-3-3,Darío Herrera,Match Report,,6.0,3.0,,1,1,2022,Chile 
+102,2020-11-13,20:00,WCQ,WCQ — CONMEBOL (M),Fri,Home,W,2,0,pe Peru,49.0,,Arturo Vidal,4-2-3-1,Esteban Ostojich,Match Report,,10.0,5.0,,0,0,2022,Chile 
+103,2020-11-17,17:00,WCQ,WCQ — CONMEBOL (M),Tue,Away,L,1,2,ve Venezuela,65.0,,Alexis Sánchez,4-2-3-1,Patricio Loustau,Match Report,,11.0,1.0,,0,0,2022,Chile 
+104,2021-06-03,21:00,WCQ,WCQ — CONMEBOL (M),Thu,Away,D,1,1,ar Argentina,46.0,,Claudio Bravo,4-4-2,Jesús Valenzuela,Match Report,,7.0,1.0,,0,0,2022,Chile 
+105,2021-06-08,21:30,WCQ,WCQ — CONMEBOL (M),Tue,Home,D,1,1,bo Bolivia,77.0,,Claudio Bravo,3-4-3,Eber Aguino,Match Report,,29.0,9.0,,0,0,2022,Chile 
+106,2021-09-02,21:00,WCQ,WCQ — CONMEBOL (M),Thu,Home,L,0,1,br Brazil,61.0,,Claudio Bravo,5-3-2,Diego Haro,Match Report,,12.0,3.0,,0,0,2022,Chile 
+107,2021-09-05,16:00,WCQ,WCQ — CONMEBOL (M),Sun,Away,D,0,0,ec Ecuador,47.0,,Claudio Bravo,3-5-2,Facundo Tello,Match Report,,11.0,3.0,,0,0,2022,Chile 
+108,2021-09-09,18:00,WCQ,WCQ — CONMEBOL (M),Thu,Away,L,1,3,co Colombia,48.0,,Claudio Bravo,3-4-3,Andrés Cunha,Match Report,,10.0,3.0,,0,0,2022,Chile 
+109,2021-10-07,20:00,WCQ,WCQ — CONMEBOL (M),Thu,Away,L,0,2,pe Peru,59.0,,Gary Medel,4-4-2,Christian Ferreyra,Match Report,,9.0,2.0,,0,0,2022,Chile 
+110,2021-10-10,21:00,WCQ,WCQ — CONMEBOL (M),Sun,Home,W,2,0,py Paraguay,61.0,,Claudio Bravo,4-3-1-2,Néstor Pitana,Match Report,,12.0,6.0,,0,0,2022,Chile 
+111,2021-10-14,21:00,WCQ,WCQ — CONMEBOL (M),Thu,Home,W,3,0,ve Venezuela,49.0,,Claudio Bravo,4-3-3,Raphael Claus,Match Report,,12.0,5.0,,0,0,2022,Chile 
+112,2021-11-11,20:00,WCQ,WCQ — CONMEBOL (M),Thu,Away,W,1,0,py Paraguay,60.0,,Claudio Bravo,3-1-4-2,Patricio Loustau,Match Report,,13.0,3.0,,0,0,2022,Chile 
+113,2021-11-16,21:15,WCQ,WCQ — CONMEBOL (M),Tue,Home,L,0,2,ec Ecuador,53.0,,Claudio Bravo,3-5-2,Fernando Rapallini,Match Report,,13.0,1.0,,0,0,2022,Chile 
+114,2022-01-27,21:15,WCQ,WCQ — CONMEBOL (M),Thu,Home,L,1,2,ar Argentina,60.0,,Claudio Bravo,4-2-3-1,Anderson Daronco,Match Report,,13.0,4.0,,0,0,2022,Chile 
+115,2022-02-01,16:00,WCQ,WCQ — CONMEBOL (M),Tue,Away,W,3,2,bo Bolivia,44.0,,Gary Medel,3-5-2,Alexis Herrera,Match Report,,14.0,4.0,,0,0,2022,Chile 
+116,2022-03-24,20:30,WCQ,WCQ — CONMEBOL (M),Thu,Away,L,0,4,br Brazil,42.0,,Claudio Bravo,3-5-2,Darío Herrera,Match Report,,10.0,2.0,,0,0,2022,Chile 
+117,2022-03-29,20:30,WCQ,WCQ — CONMEBOL (M),Tue,Home,L,0,2,uy Uruguay,55.0,,Gary Medel,4-3-3,Patricio Loustau,Match Report,,13.0,4.0,,0,0,2022,Chile 
+118,2022-06-06,20:00,Friendlies (M),Friendlies (M),Mon,Neutral,L,0,2,kr Korea Republic,,40135.0,Gary Medel,4-1-4-1,Ryūji Satō,Match Report,,,,,0,0,2022,Chile 
+119,2022-09-23,20:00,Friendlies (M),Friendlies (M),Fri,Neutral,L,0,2,ma Morocco,,,Gary Medel,3-3-2-2,Martin Dohál,Match Report,,,,,0,0,2022,Chile 
+120,2022-09-27,20:00,Friendlies (M),Friendlies (M),Tue,Neutral,D,2,2,qa Qatar,,,Gary Medel,4-1-4-1,Julian Weinberger,Match Report,,,,,0,1,2022,Chile 
+121,2022-11-16,18:00,Friendlies (M),Friendlies (M),Wed,Neutral,L,0,1,pl Poland,,27968.0,Claudio Bravo,4-4-2◆,Harm Osmers,Match Report,,,,,0,0,2022,Chile 
+122,2022-11-20,13:30,Friendlies (M),Friendlies (M),Sun,Neutral,D,0,0,sk Slovakia,,19757.0,Gary Medel,4-4-2,Ondřej Berka,Match Report,,,,,0,0,2022,Chile 
+123,2020-10-08,19:30,WCQ,WCQ — CONMEBOL (M),Thu,Away,D,2,2,py Paraguay,40.0,,Luis Advíncula,4-1-4-1,Néstor Pitana,Match Report,,10.0,4.0,,0,0,2022,Peru 
+124,2020-10-13,19:00,WCQ,WCQ — CONMEBOL (M),Tue,Home,L,2,4,br Brazil,34.0,,Jefferson Farfán,4-1-4-1,Julio Bascuñán,Match Report,,7.0,6.0,,0,0,2022,Peru 
+125,2020-11-13,20:00,WCQ,WCQ — CONMEBOL (M),Fri,Away,L,0,2,cl Chile,51.0,,Pedro Gallese,4-2-3-1,Esteban Ostojich,Match Report,,8.0,4.0,,0,0,2022,Peru 
+126,2020-11-17,19:30,WCQ,WCQ — CONMEBOL (M),Tue,Home,L,0,2,ar Argentina,53.0,,Edison Flores,4-2-3-1,Wilmar Roldán,Match Report,,10.0,1.0,,0,0,2022,Peru 
+127,2021-06-03,21:00,WCQ,WCQ — CONMEBOL (M),Thu,Home,L,0,3,co Colombia,49.0,,Paolo Guerrero,4-2-3-1,Wilton Sampaio,Match Report,,12.0,2.0,,0,0,2022,Peru 
+128,2021-06-08,16:00,WCQ,WCQ — CONMEBOL (M),Tue,Away,W,2,1,ec Ecuador,31.0,,Pedro Gallese,4-2-3-1,Esteban Ostojich,Match Report,,8.0,3.0,,0,0,2022,Peru 
+129,2021-09-02,20:00,WCQ,WCQ — CONMEBOL (M),Thu,Home,D,1,1,uy Uruguay,65.0,,Paolo Guerrero,4-2-3-1,Néstor Pitana,Match Report,,10.0,2.0,,0,0,2022,Peru 
+130,2021-09-05,20:00,WCQ,WCQ — CONMEBOL (M),Sun,Home,W,1,0,ve Venezuela,52.0,,Pedro Gallese,4-2-3-1,Luis Quiroz,Match Report,,13.0,5.0,,0,0,2022,Peru 
+131,2021-09-09,21:30,WCQ,WCQ — CONMEBOL (M),Thu,Away,L,0,2,br Brazil,42.0,,Pedro Gallese,4-2-3-1,Wilmar Roldán,Match Report,,12.0,1.0,,0,0,2022,Peru 
+132,2021-10-07,20:00,WCQ,WCQ — CONMEBOL (M),Thu,Home,W,2,0,cl Chile,42.0,,Paolo Guerrero,4-2-3-1,Christian Ferreyra,Match Report,,13.0,9.0,,0,0,2022,Peru 
+133,2021-10-10,16:00,WCQ,WCQ — CONMEBOL (M),Sun,Away,L,0,1,bo Bolivia,44.0,,Pedro Gallese,4-1-4-1,Guillermo Guerrero,Match Report,,11.0,5.0,,0,0,2022,Peru 
+134,2021-10-14,20:30,WCQ,WCQ — CONMEBOL (M),Thu,Away,L,0,1,ar Argentina,33.0,,Pedro Gallese,4-1-4-1,Wilton Pereira Sampaio,Match Report,,5.0,3.0,,0,1,2022,Peru 
+135,2021-11-11,21:00,WCQ,WCQ — CONMEBOL (M),Thu,Home,W,3,0,bo Bolivia,51.0,,Pedro Gallese,4-2-3-1,Eber Aguino,Match Report,,15.0,6.0,,0,0,2022,Peru 
+136,2021-11-16,17:00,WCQ,WCQ — CONMEBOL (M),Tue,Away,W,2,1,ve Venezuela,40.0,,Pedro Gallese,4-5-1,Bruno Arleu de Araujo,Match Report,,12.0,5.0,,0,0,2022,Peru 
+137,2022-01-16,16:00,Friendlies (M),Friendlies (M),Sun,Neutral,D,1,1,pa Panama,,,Pedro Gallese,4-1-4-1,Fernando Echenique,Match Report,,,,,0,0,2022,Peru 
+138,2022-01-20,20:00,Friendlies (M),Friendlies (M),Thu,Neutral,W,3,0,jm Jamaica,,,Pedro Gallese,4-4-2◆,Fernando Echenique,Match Report,,,,,0,0,2022,Peru 
+139,2022-01-28,16:00,WCQ,WCQ — CONMEBOL (M),Fri,Away,W,1,0,co Colombia,31.0,,Pedro Gallese,4-1-4-1,Jesús Valenzuela,Match Report,,4.0,1.0,,0,0,2022,Peru 
+140,2022-02-01,21:00,WCQ,WCQ — CONMEBOL (M),Tue,Home,D,1,1,ec Ecuador,63.0,,Pedro Gallese,4-1-4-1,Wilton Sampaio,Match Report,,12.0,5.0,,0,0,2022,Peru 
+141,2022-03-24,20:30,WCQ,WCQ — CONMEBOL (M),Thu,Away,L,0,1,uy Uruguay,51.0,,Pedro Gallese,4-1-4-1,Anderson Daronco,Match Report,,7.0,2.0,,0,0,2022,Peru 
+142,2022-03-29,18:30,WCQ,WCQ — CONMEBOL (M),Tue,Home,W,2,0,py Paraguay,43.0,,Pedro Gallese,4-1-4-1,Fernando Rapallini,Match Report,,9.0,3.0,,0,0,2022,Peru 
+143,2022-06-05,10:30,Friendlies (M),Friendlies (M),Sun,Neutral,W,1,0,nz New Zealand,,32149.0,Pedro Gallese,4-1-4-1,Ishmael Barbara,Match Report,,,,,0,0,2022,Peru 
+144,2022-06-13,21:00,WCQ Play-offs,WCQ — Inter-confederation play-offs (M),Mon,Neutral,D,0 (4),0 (5),au Australia,,,Pedro Gallese,4-1-4-1,Slavko Vinčič,Match Report,Australia won on penalty kicks following extra time,,,,0,0,2022,Peru 
+145,2022-09-24,18:00,Friendlies (M),Friendlies (M),Sat,Neutral,L,0,1,mx Mexico,,62729.0,Pedro Gallese,4-2-3-1,Bryan López,Match Report,,,,,0,0,2022,Peru 
+146,2022-09-27,20:00,Friendlies (M),Friendlies (M),Tue,Neutral,W,4,1,sv El Salvador,,,Carlos Zambrano,4-4-2,Benjamín Pineda,Match Report,,,,,2,2,2022,Peru 
+147,2022-11-16,20:00,Friendlies (M),Friendlies (M),Wed,Neutral,W,1,0,py Paraguay,,,Pedro Gallese,4-2-3-1,Jhon Ospina,Match Report,,,,,0,0,2022,Peru 
+148,2022-11-19,21:00,Friendlies (M),Friendlies (M),Sat,Home,W,1,0,bo Bolivia,,,Christian Cueva,4-3-3,Flavio Rodrigues De Souza,Match Report,,,,,0,0,2022,Peru 
+149,2020-10-09,18:30,WCQ,WCQ — CONMEBOL (M),Fri,Away,L,0,3,co Colombia,42.0,,Tomás Rincón,4-2-3-1,Guillermo Guerrero,Match Report,,11.0,3.0,,0,0,2022,Venezuela 
+150,2020-10-13,18:00,WCQ,WCQ — CONMEBOL (M),Tue,Home,L,0,1,py Paraguay,33.0,,Tomás Rincón,4-3-3,Andrés Rojas,Match Report,,10.0,2.0,,0,1,2022,Venezuela 
+151,2020-11-13,21:30,WCQ,WCQ — CONMEBOL (M),Fri,Away,L,0,1,br Brazil,26.0,,Tomás Rincón,4-3-3,Juan Benítez,Match Report,,5.0,1.0,,0,0,2022,Venezuela 
+152,2020-11-17,17:00,WCQ,WCQ — CONMEBOL (M),Tue,Home,W,2,1,cl Chile,35.0,,Salomón Rondón,4-3-3,Patricio Loustau,Match Report,,14.0,5.0,,0,0,2022,Venezuela 
+153,2021-06-03,16:00,WCQ,WCQ — CONMEBOL (M),Thu,Away,L,1,3,bo Bolivia,47.0,,Tomás Rincón,4-1-4-1,John J. Ospina,Match Report,,11.0,6.0,,0,0,2022,Venezuela 
+154,2021-06-08,18:30,WCQ,WCQ — CONMEBOL (M),Tue,Home,D,0,0,uy Uruguay,44.0,,Tomás Rincón,5-4-1,Anderson Daronco,Match Report,,14.0,4.0,,0,0,2022,Venezuela 
+155,2021-09-02,20:00,WCQ,WCQ — CONMEBOL (M),Thu,Home,L,1,3,ar Argentina,27.0,,Tomás Rincón,4-4-2,Leodán González,Match Report,,7.0,3.0,,1,1,2022,Venezuela 
+156,2021-09-05,20:00,WCQ,WCQ — CONMEBOL (M),Sun,Away,L,0,1,pe Peru,48.0,,Tomás Rincón,4-2-3-1,Luis Quiroz,Match Report,,10.0,3.0,,0,0,2022,Venezuela 
+157,2021-09-09,18:30,WCQ,WCQ — CONMEBOL (M),Thu,Away,L,1,2,py Paraguay,52.0,,Wuilker Faríñez,4-2-3-1,Roberto Tobar,Match Report,,13.0,3.0,,0,0,2022,Venezuela 
+158,2021-10-07,19:30,WCQ,WCQ — CONMEBOL (M),Thu,Home,L,1,3,br Brazil,33.0,,Tomás Rincón,4-2-3-1,Kevin Ortega,Match Report,,9.0,4.0,,0,0,2022,Venezuela 
+159,2021-10-10,16:30,WCQ,WCQ — CONMEBOL (M),Sun,Home,W,2,1,ec Ecuador,42.0,,Tomás Rincón,4-2-3-1,Andrés Cunha,Match Report,,13.0,3.0,,0,0,2022,Venezuela 
+160,2021-10-14,21:00,WCQ,WCQ — CONMEBOL (M),Thu,Away,L,0,3,cl Chile,51.0,,Tomás Rincón,4-2-3-1,Raphael Claus,Match Report,,12.0,1.0,,0,0,2022,Venezuela 
+161,2021-11-11,16:00,WCQ,WCQ — CONMEBOL (M),Thu,Away,L,0,1,ec Ecuador,45.0,,Tomás Rincón,5-4-1,Christian Ferreyra,Match Report,,8.0,0.0,,0,0,2022,Venezuela 
+162,2021-11-16,17:00,WCQ,WCQ — CONMEBOL (M),Tue,Home,L,1,2,pe Peru,60.0,,Tomás Rincón,4-4-1-1,Bruno Arleu de Araujo,Match Report,,17.0,6.0,,0,1,2022,Venezuela 
+163,2022-01-28,18:00,WCQ,WCQ — CONMEBOL (M),Fri,Home,W,4,1,bo Bolivia,55.0,,Tomás Rincón,4-2-3-1,Guillermo Guerrero,Match Report,,23.0,9.0,,0,0,2022,Venezuela 
+164,2022-02-01,20:00,WCQ,WCQ — CONMEBOL (M),Tue,Away,L,1,4,uy Uruguay,58.0,,Tomás Rincón,4-2-3-1,Bruno Arleu de Araujo,Match Report,,9.0,3.0,,0,0,2022,Venezuela 
+165,2022-03-25,20:30,WCQ,WCQ — CONMEBOL (M),Fri,Away,L,0,3,ar Argentina,27.0,,Salomón Rondón,5-3-2,Kevin Ortega,Match Report,,3.0,1.0,,0,0,2022,Venezuela 
+166,2022-03-29,19:30,WCQ,WCQ — CONMEBOL (M),Tue,Home,L,0,1,co Colombia,46.0,,Tomás Rincón,4-3-3,Wilton Sampaio,Match Report,,15.0,6.0,,0,0,2022,Venezuela 
+167,2022-06-01,19:00,Friendlies (M),Friendlies (M),Wed,Neutral,W,1,0,mt Malta,,,Salomón Rondón,4-3-3,Kristo Tohver,Match Report,,,,,0,0,2022,Venezuela 
+168,2022-06-09,20:00,Friendlies (M),Friendlies (M),Thu,Neutral,W,1,0,sa Saudi Arabia,,,Tomás Rincón,3-4-3,Jason Barcelo,Match Report,,,,,0,0,2022,Venezuela 
+169,2022-09-22,18:00,Friendlies (M),Friendlies (M),Thu,Neutral,L,0,1,is Iceland,,50.0,Salomón Rondón,3-4-3,Sebastian Gishamer,Match Report,,,,,0,0,2022,Venezuela 
+170,2022-09-27,17:00,Friendlies (M),Friendlies (M),Tue,Neutral,W,4,0,ae UAE,,,Tomás Rincón,4-2-3-1,Manuel Schüttengruber,Match Report,,,,,0,0,2022,Venezuela 
+171,2022-11-15,21:00,Friendlies (M),Friendlies (M),Tue,Neutral,D,2,2,pa Panama,,,Tomás Rincón,4-1-4-1,Sultan Mohamed Al Hammadi,Match Report,,,,,1,1,2022,Venezuela 
+172,2020-10-08,21:30,WCQ,WCQ — CONMEBOL (M),Thu,Away,L,0,1,ar Argentina,42.0,,Enner Valencia,4-1-4-1,Roberto Tobar,Match Report,,4.0,0.0,,0,0,2022,Ecuador 
+173,2020-10-13,16:00,WCQ,WCQ — CONMEBOL (M),Tue,Home,W,4,2,uy Uruguay,51.0,,Enner Valencia,4-4-2,Wilmar Roldán,Match Report,,17.0,7.0,,0,0,2022,Ecuador 
+174,2020-11-12,16:00,WCQ,WCQ — CONMEBOL (M),Thu,Away,W,3,2,bo Bolivia,62.0,,Alexander Domínguez,4-2-3-1,Wilton Pereira Sampaio,Match Report,,12.0,6.0,,1,1,2022,Ecuador 
+175,2020-11-17,16:00,WCQ,WCQ — CONMEBOL (M),Tue,Home,W,6,1,co Colombia,53.0,,Alexander Domínguez,4-2-3-1,Jesús Valenzuela,Match Report,,15.0,10.0,,0,0,2022,Ecuador 
+176,2021-06-04,21:30,WCQ,WCQ — CONMEBOL (M),Fri,Away,L,0,2,br Brazil,34.0,,Enner Valencia,4-4-2,Alexis Herrera,Match Report,,3.0,0.0,,0,0,2022,Ecuador 
+177,2021-06-08,16:00,WCQ,WCQ — CONMEBOL (M),Tue,Home,L,1,2,pe Peru,70.0,,Alexander Domínguez,4-4-1-1,Esteban Ostojich,Match Report,,15.0,5.0,,0,0,2022,Ecuador 
+178,2021-09-02,16:00,WCQ,WCQ — CONMEBOL (M),Thu,Home,W,2,0,py Paraguay,64.0,,Enner Valencia,3-4-3,Andrés Matonte,Match Report,,12.0,2.0,,0,0,2022,Ecuador 
+179,2021-09-05,16:00,WCQ,WCQ — CONMEBOL (M),Sun,Home,D,0,0,cl Chile,54.0,,Enner Valencia,4-3-3,Facundo Tello,Match Report,,11.0,4.0,,0,0,2022,Ecuador 
+180,2021-09-09,19:30,WCQ,WCQ — CONMEBOL (M),Thu,Away,L,0,1,uy Uruguay,46.0,,Carlos Gruezo,5-3-2,Anderson Daronco,Match Report,,7.0,2.0,,0,0,2022,Ecuador 
+181,2021-10-07,19:30,WCQ,WCQ — CONMEBOL (M),Thu,Home,W,3,0,bo Bolivia,68.0,,Enner Valencia,4-2-3-1,Wilmar Roldán,Match Report,,17.0,6.0,,0,0,2022,Ecuador 
+182,2021-10-10,16:30,WCQ,WCQ — CONMEBOL (M),Sun,Away,L,1,2,ve Venezuela,58.0,,Enner Valencia,3-4-3,Andrés Cunha,Match Report,,12.0,3.0,,1,1,2022,Ecuador 
+183,2021-10-14,16:00,WCQ,WCQ — CONMEBOL (M),Thu,Away,D,0,0,co Colombia,38.0,,Enner Valencia,4-4-2,Diego Haro,Match Report,,7.0,5.0,,0,0,2022,Ecuador 
+184,2021-11-11,16:00,WCQ,WCQ — CONMEBOL (M),Thu,Home,W,1,0,ve Venezuela,55.0,,Alexander Domínguez,4-2-3-1,Christian Ferreyra,Match Report,,14.0,4.0,,0,0,2022,Ecuador 
+185,2021-11-16,21:15,WCQ,WCQ — CONMEBOL (M),Tue,Away,W,2,0,cl Chile,47.0,,Alexander Domínguez,4-4-2,Fernando Rapallini,Match Report,,15.0,6.0,,0,0,2022,Ecuador 
+186,2022-01-27,16:00,WCQ,WCQ — CONMEBOL (M),Thu,Home,D,1,1,br Brazil,46.0,,Enner Valencia,4-3-3,Wilmar Roldán,Match Report,,10.0,1.0,,0,0,2022,Ecuador 
+187,2022-02-01,21:00,WCQ,WCQ — CONMEBOL (M),Tue,Away,D,1,1,pe Peru,37.0,,Carlos Gruezo,4-4-1-1,Wilton Sampaio,Match Report,,10.0,3.0,,0,0,2022,Ecuador 
+188,2022-03-24,20:30,WCQ,WCQ — CONMEBOL (M),Thu,Away,L,1,3,py Paraguay,57.0,,Enner Valencia,4-2-3-1,Jesús Valenzuela,Match Report,,13.0,4.0,,1,1,2022,Ecuador 
+189,2022-03-29,18:30,WCQ,WCQ — CONMEBOL (M),Tue,Home,D,1,1,ar Argentina,47.0,,Carlos Gruezo,4-3-3,Raphael Claus,Match Report,,10.0,3.0,,0,1,2022,Ecuador 
+190,2022-06-02,20:30,Friendlies (M),Friendlies (M),Thu,Neutral,W,1,0,ng Nigeria,,25219.0,Enner Valencia,4-1-4-1,Ricardo Montero,Match Report,,,,,0,0,2022,Ecuador 
+191,2022-06-05,18:30,Friendlies (M),Friendlies (M),Sun,Neutral,D,0,0,mx Mexico,,61104.0,Alexander Domínguez,4-1-4-1,Oliver Vergara,Match Report,,,,,0,0,2022,Ecuador 
+192,2022-06-11,20:00,Friendlies (M),Friendlies (M),Sat,Neutral,W,1,0,cv Cape Verde,,,Alexander Domínguez,4-2-3-1,Moeth Gaymes,Match Report,,,,,1,1,2022,Ecuador 
+193,2022-09-23,20:00,Friendlies (M),Friendlies (M),Fri,Neutral,D,0,0,sa Saudi Arabia,,,Enner Valencia,4-3-2-1,Ivan Bebek,Match Report,,,,,0,0,2022,Ecuador 
+194,2022-09-27,13:55,Friendlies (M),Friendlies (M),Tue,Neutral,D,0,0,jp Japan,,4321.0,Ángel Mena,4-2-3-1,Sascha Stegemann,Match Report,,,,,0,1,2022,Ecuador 
+195,2022-11-12,18:30,Friendlies (M),Friendlies (M),Sat,Neutral,D,0,0,iq Iraq,,,Alexander Domínguez,4-1-4-1,Gustavo Correia,Match Report,,,,,0,1,2022,Ecuador 
+196,2022-11-20,19:00,World Cup,Group stage,Sun,Neutral,W,2,0,qa Qatar,53.0,67372.0,Enner Valencia,4-4-2,Daniele Orsato,Match Report,,5.0,2.0,22.7,1,1,2022,Ecuador 
+197,2022-11-25,19:00,World Cup,Group stage,Fri,Neutral,D,1,1,nl Netherlands,46.0,44833.0,Enner Valencia,3-4-3,Mustapha Ghorbal,Match Report,,15.0,4.0,17.2,0,0,2022,Ecuador 
+198,2022-11-29,18:00,World Cup,Group stage,Tue,Neutral,L,1,2,sn Senegal,61.0,44569.0,Enner Valencia,4-3-3,Clément Turpin,Match Report,,9.0,4.0,17.2,0,0,2022,Ecuador 
+199,2021-09-02,21:00,WCQ,Third round,Thu,Home,W,2,1,jm Jamaica,,,Guillermo Ochoa,4-2-3-1,Selvin Brown,Match Report,,,,,0,0,2022,Mexico 
+200,2021-09-05,17:05,WCQ,Third round,Sun,Away,W,1,0,cr Costa Rica,,2200.0,Andrés Guardado,4-1-4-1,Ismail Elfath,Match Report,,,,,1,1,2022,Mexico 
+201,2021-09-08,19:05,WCQ,Third round,Wed,Away,D,1,1,pa Panama,,16000.0,Guillermo Ochoa,4-1-4-1,Mario Escobar,Match Report,,,,,0,0,2022,Mexico 
+202,2021-10-07,20:40,WCQ,Third round,Thu,Home,D,1,1,ca Canada,,40468.0,Andrés Guardado,4-1-4-1,Ismael Cornejo,Match Report,,,,,0,0,2022,Mexico 
+203,2021-10-10,18:00,WCQ,Third round,Sun,Home,W,3,0,hn Honduras,,45590.0,Guillermo Ochoa,4-1-4-1,Ismail Elfath,Match Report,,,,,0,0,2022,Mexico 
+204,2021-10-13,20:05,WCQ,Third round,Wed,Away,W,2,0,sv El Salvador,,31000.0,Guillermo Ochoa,4-1-4-1,Drew Fischer,Match Report,,,,,1,1,2022,Mexico 
+205,2021-11-12,21:10,WCQ,Third round,Fri,Away,L,0,2,us United States,,26000.0,Guillermo Ochoa,4-1-4-1,Iván Barton,Match Report,,,,,0,0,2022,Mexico 
+206,2021-11-16,19:05,WCQ,Third round,Tue,Away,L,1,2,ca Canada,,44212.0,Guillermo Ochoa,3-4-1-2,Mario Escobar,Match Report,,,,,0,0,2022,Mexico 
+207,2022-01-27,19:00,WCQ,Third round,Thu,Away,W,2,1,jm Jamaica,,,Andrés Guardado,4-1-4-1,Ismael Cornejo,Match Report,,,,,0,0,2022,Mexico 
+208,2022-01-30,17:00,WCQ,Third round,Sun,Home,D,0,0,cr Costa Rica,,2000.0,Guillermo Ochoa,4-1-4-1,Said Martínez,Match Report,,,,,0,0,2022,Mexico 
+209,2022-02-02,21:00,WCQ,Third round,Wed,Home,W,1,0,pa Panama,,2000.0,Andrés Guardado,4-1-4-1,Iván Barton,Match Report,,,,,1,1,2022,Mexico 
+210,2022-03-24,20:00,WCQ,Third round,Thu,Home,D,0,0,us United States,,47000.0,Guillermo Ochoa,4-1-4-1,Mario Escobar,Match Report,,,,,0,0,2022,Mexico 
+211,2022-03-27,17:05,WCQ,Third round,Sun,Away,W,1,0,hn Honduras,,,Guillermo Ochoa,4-1-4-1,Armando Villarreal,Match Report,,,,,0,0,2022,Mexico 
+212,2022-03-30,19:05,WCQ,Third round,Wed,Home,W,2,0,sv El Salvador,,,Guillermo Ochoa,4-1-4-1,Oshane Nation,Match Report,,,,,1,1,2022,Mexico 
+213,2022-04-27,20:30,Friendlies (M),Friendlies (M),Wed,Neutral,D,0,0,gt Guatemala,,37311.0,Jesús Alberto Angulo,4-2-3-1,Reon Radix,Match Report,,,,,0,0,2022,Mexico 
+214,2022-05-28,19:08,Friendlies (M),Friendlies (M),Sat,Neutral,W,2,1,ng Nigeria,,56872.0,Andrés Guardado,4-1-4-1,José Torres,Match Report,,,,,0,0,2022,Mexico 
+215,2022-06-02,19:00,Friendlies (M),Friendlies (M),Thu,Neutral,L,0,3,uy Uruguay,,57735.0,César Montes,3-4-3,Juan Gabriel Calderón,Match Report,,,,,0,0,2022,Mexico 
+216,2022-06-05,18:30,Friendlies (M),Friendlies (M),Sun,Neutral,D,0,0,ec Ecuador,,61104.0,Andrés Guardado,4-1-4-1,Oliver Vergara,Match Report,,,,,0,0,2022,Mexico 
+217,2022-08-31,21:00,Friendlies (M),Friendlies (M),Wed,Neutral,L,0,1,py Paraguay,,51387.0,César Montes,4-1-4-1,Nima Saghafi,Match Report,,,,,0,0,2022,Mexico 
+218,2022-09-24,18:00,Friendlies (M),Friendlies (M),Sat,Neutral,W,1,0,pe Peru,,62729.0,Guillermo Ochoa,4-1-4-1,Bryan López,Match Report,,,,,0,0,2022,Mexico 
+219,2022-09-27,19:00,Friendlies (M),Friendlies (M),Tue,Neutral,L,2,3,co Colombia,,67311.0,Andrés Guardado,4-3-3,Nima Saghafi,Match Report,,,,,1,1,2022,Mexico 
+220,2022-11-09,21:00,Friendlies (M),Friendlies (M),Wed,Neutral,W,4,0,iq Iraq,,,Héctor Moreno,4-1-4-1,Guillermo Cuadra,Match Report,,,,,1,1,2022,Mexico 
+221,2022-11-16,20:30,Friendlies (M),Friendlies (M),Wed,Neutral,L,1,2,se Sweden,,,Guillermo Ochoa,4-1-4-1,César Soto,Match Report,,,,,0,0,2022,Mexico 
+222,2022-11-22,19:00,World Cup,Group stage,Tue,Neutral,D,0,0,pl Poland,60.0,39369.0,Guillermo Ochoa,4-3-3,Chris Beath,Match Report,,11.0,4.0,19.4,0,0,2022,Mexico 
+223,2022-11-26,22:00,World Cup,Group stage,Sat,Neutral,L,0,2,ar Argentina,42.0,88966.0,Andrés Guardado,5-3-2,Daniele Orsato,Match Report,,4.0,1.0,26.6,0,0,2022,Mexico 
+224,2022-11-30,22:00,World Cup,Group stage,Wed,Neutral,W,2,1,sa Saudi Arabia,60.0,84985.0,Guillermo Ochoa,4-2-3-1,Michael Oliver,Match Report,,26.0,10.0,22.2,0,0,2022,Mexico 
+225,2021-09-02,21:00,WCQ,Third round,Thu,Away,L,1,2,mx Mexico,,,Andre Blake,4-2-3-1,Selvin Brown,Match Report,,,,,0,0,2022,Jamaica 
+226,2021-09-05,17:00,WCQ,Third round,Sun,Home,L,0,3,pa Panama,,,Andre Blake,4-2-2-2,Ismael Cornejo,Match Report,,,,,0,0,2022,Jamaica 
+227,2021-09-08,19:05,WCQ,Third round,Wed,Away,D,1,1,cr Costa Rica,,3000.0,Andre Blake,4-2-3-1,Drew Fischer,Match Report,,,,,0,0,2022,Jamaica 
+228,2021-10-07,18:45,WCQ,Third round,Thu,Away,L,0,2,us United States,,20500.0,Andre Blake,4-2-3-1,Reon Radix,Match Report,,,,,0,0,2022,Jamaica 
+229,2021-10-10,17:00,WCQ,Third round,Sun,Home,D,0,0,ca Canada,,,Andre Blake,,Keylor Herrera,Match Report,,,,,0,0,2022,Jamaica 
+230,2021-10-13,18:05,WCQ,Third round,Wed,Away,W,2,0,hn Honduras,,18000.0,Andre Blake,4-1-3-2,Bryan López,Match Report,,,,,0,0,2022,Jamaica 
+231,2021-11-12,20:00,WCQ,Third round,Fri,Away,D,1,1,sv El Salvador,,10000.0,Andre Blake,4-4-2,Jose Rivera,Match Report,,,,,0,0,2022,Jamaica 
+232,2021-11-16,17:00,WCQ,Third round,Tue,Home,D,1,1,us United States,,4100.0,Andre Blake,4-2-3-1,Juan Gabriel Calderón,Match Report,,,,,0,0,2022,Jamaica 
+233,2022-01-20,20:00,Friendlies (M),Friendlies (M),Thu,Neutral,L,0,3,pe Peru,,,Damion Lowe,4-2-3-1,Fernando Echenique,Match Report,,,,,0,0,2022,Jamaica 
+234,2022-01-27,19:00,WCQ,Third round,Thu,Home,L,1,2,mx Mexico,,,Andre Blake,4-1-4-1,Ismael Cornejo,Match Report,,,,,0,0,2022,Jamaica 
+235,2022-01-30,17:05,WCQ,Third round,Sun,Away,L,2,3,pa Panama,,,Andre Blake,4-1-4-1,Selvin Brown,Match Report,,,,,1,1,2022,Jamaica 
+236,2022-02-02,19:00,WCQ,Third round,Wed,Home,L,0,1,cr Costa Rica,,,Andre Blake,3-4-1-2,Marco Ortíz,Match Report,,,,,0,0,2022,Jamaica 
+237,2022-03-24,18:05,WCQ,Third round,Thu,Home,D,1,1,sv El Salvador,,1000.0,Andre Blake,3-4-3,Fernando Hernández,Match Report,,,,,0,0,2022,Jamaica 
+238,2022-03-27,16:05,WCQ,Third round,Sun,Away,L,0,4,ca Canada,,29122.0,Andre Blake,3-4-3,Fernando Guerrero,Match Report,,,,,0,0,2022,Jamaica 
+239,2022-03-30,20:05,WCQ,Third round,Wed,Home,W,2,1,hn Honduras,,,Andre Blake,3-4-3,Keylor Herrera,Match Report,,,,,1,1,2022,Jamaica 
+240,2022-08-26,18:30,Friendlies (M),Friendlies (M),Fri,Neutral,D,1,1,qa Qatar,,,Adrian Mariappa,5-3-2,Sebastian Gishamer,Match Report,,,,,0,0,2022,Jamaica 
+241,2022-09-27,20:00,Friendlies (M),Friendlies (M),Tue,Neutral,L,0,3,ar Argentina,,,Andre Blake,4-4-2,Marco Ortíz,Match Report,,,,,0,0,2022,Jamaica 
+242,2022-11-09,18:00,Friendlies (M),Friendlies (M),Wed,Neutral,D,1,1,cm Cameroon,,,Damion Lowe,4-1-3-2,Jean-Jacques Ndala,Match Report,,,,,0,0,2022,Jamaica 
+243,2020-10-08,19:45,WCQ,WCQ — CONMEBOL (M),Thu,Home,W,2,1,cl Chile,51.0,,Diego Godín,4-2-3-1,Eber Aguino,Match Report,,9.0,2.0,,1,1,2022,Uruguay 
+244,2020-10-13,16:00,WCQ,WCQ — CONMEBOL (M),Tue,Away,L,2,4,ec Ecuador,49.0,,Diego Godín,4-4-2,Wilmar Roldán,Match Report,,7.0,4.0,,2,2,2022,Uruguay 
+245,2020-11-13,15:30,WCQ,WCQ — CONMEBOL (M),Fri,Away,W,3,0,co Colombia,37.0,,Diego Godín,4-4-2,Fernando Rapallini,Match Report,,6.0,4.0,,1,1,2022,Uruguay 
+246,2020-11-17,20:00,WCQ,WCQ — CONMEBOL (M),Tue,Home,L,0,2,br Brazil,41.0,,Diego Godín,4-4-2,Roberto Tobar,Match Report,,6.0,0.0,,0,0,2022,Uruguay 
+247,2021-06-03,19:00,WCQ,WCQ — CONMEBOL (M),Thu,Home,D,0,0,py Paraguay,57.0,,Diego Godín,3-5-2,Wilmar Roldán,Match Report,,12.0,2.0,,0,0,2022,Uruguay 
+248,2021-06-08,18:30,WCQ,WCQ — CONMEBOL (M),Tue,Away,D,0,0,ve Venezuela,56.0,,Diego Godín,4-1-4-1,Anderson Daronco,Match Report,,7.0,3.0,,0,0,2022,Uruguay 
+249,2021-09-02,20:00,WCQ,WCQ — CONMEBOL (M),Thu,Away,D,1,1,pe Peru,35.0,,Diego Godín,4-3-3,Néstor Pitana,Match Report,,8.0,2.0,,0,0,2022,Uruguay 
+250,2021-09-05,19:00,WCQ,WCQ — CONMEBOL (M),Sun,Home,W,4,2,bo Bolivia,55.0,,Diego Godín,4-3-1-2,Eber Aguino,Match Report,,19.0,10.0,,1,1,2022,Uruguay 
+251,2021-09-09,19:30,WCQ,WCQ — CONMEBOL (M),Thu,Home,W,1,0,ec Ecuador,55.0,,Fernando Muslera,4-3-1-2,Anderson Daronco,Match Report,,9.0,1.0,,0,0,2022,Uruguay 
+252,2021-10-07,20:00,WCQ,WCQ — CONMEBOL (M),Thu,Home,D,0,0,co Colombia,49.0,,Diego Godín,4-3-3,Jesús Valenzuela,Match Report,,15.0,3.0,,0,0,2022,Uruguay 
+253,2021-10-10,20:30,WCQ,WCQ — CONMEBOL (M),Sun,Away,L,0,3,ar Argentina,38.0,,Diego Godín,5-4-1,Roberto Tobar,Match Report,,10.0,6.0,,0,0,2022,Uruguay 
+254,2021-10-14,20:30,WCQ,WCQ — CONMEBOL (M),Thu,Away,L,1,4,br Brazil,45.0,,Diego Godín,4-4-2,Fernando Rapallini,Match Report,,5.0,3.0,,0,0,2022,Uruguay 
+255,2021-11-12,20:00,WCQ,WCQ — CONMEBOL (M),Fri,Home,L,0,1,ar Argentina,36.0,,Diego Godín,4-1-4-1,Alexis Herrera,Match Report,,19.0,4.0,,0,0,2022,Uruguay 
+256,2021-11-16,16:00,WCQ,WCQ — CONMEBOL (M),Tue,Away,L,0,3,bo Bolivia,46.0,,Diego Godín,4-1-4-1,Wilton Sampaio,Match Report,,17.0,4.0,,0,0,2022,Uruguay 
+257,2022-01-27,20:00,WCQ,WCQ — CONMEBOL (M),Thu,Away,W,1,0,py Paraguay,53.0,,Diego Godín,4-4-2,Darío Herrera,Match Report,,15.0,4.0,,0,0,2022,Uruguay 
+258,2022-02-01,20:00,WCQ,WCQ — CONMEBOL (M),Tue,Home,W,4,1,ve Venezuela,42.0,,Diego Godín,4-4-2,Bruno Arleu de Araujo,Match Report,,22.0,11.0,,1,1,2022,Uruguay 
+259,2022-03-24,20:30,WCQ,WCQ — CONMEBOL (M),Thu,Home,W,1,0,pe Peru,49.0,,Diego Godín,4-4-2,Anderson Daronco,Match Report,,14.0,2.0,,0,0,2022,Uruguay 
+260,2022-03-29,20:30,WCQ,WCQ — CONMEBOL (M),Tue,Away,W,2,0,cl Chile,45.0,,Diego Godín,4-2-3-1,Patricio Loustau,Match Report,,15.0,6.0,,0,0,2022,Uruguay 
+261,2022-06-02,19:00,Friendlies (M),Friendlies (M),Thu,Neutral,W,3,0,mx Mexico,,57735.0,Edinson Cavani,4-1-4-1,Juan Gabriel Calderón,Match Report,,,,,0,0,2022,Uruguay 
+262,2022-09-23,19:30,Friendlies (M),Friendlies (M),Fri,Neutral,L,0,1,ir IR Iran,,,Luis Suárez,4-1-4-1,Walter Altmann,Match Report,,,,,0,0,2022,Uruguay 
+263,2022-09-27,18:00,Friendlies (M),Friendlies (M),Tue,Neutral,W,2,0,ca Canada,,,Luis Suárez,4-2-2-2,Peter Kráľovič,Match Report,,,,,0,0,2022,Uruguay 
+264,2022-11-24,16:00,World Cup,Group stage,Thu,Neutral,D,0,0,kr Korea Republic,56.0,41663.0,Diego Godín,4-3-3,Clément Turpin,Match Report,,10.0,1.0,18.1,0,0,2022,Uruguay 
+265,2022-11-28,22:00,World Cup,Group stage,Mon,Neutral,L,0,2,pt Portugal,41.0,88668.0,Diego Godín,3-5-2,Alireza Faghani,Match Report,,11.0,3.0,17.7,0,0,2022,Uruguay 
+266,2022-12-02,18:00,World Cup,Group stage,Fri,Neutral,W,2,0,gh Ghana,49.0,43443.0,Luis Suárez,4-4-2,Daniel Siebert,Match Report,,12.0,6.0,21.4,0,0,2022,Uruguay 
+267,2021-03-25,20:00,WCQ,First round,Thu,Home,W,1,0,bb Barbados,,,Harold Cummings,4-1-4-1,Nima Saghafi,Match Report,,,,,0,0,2022,Panama 
+268,2021-03-28,16:00,WCQ,First round,Sun,Away,W,2,1,dm Dominica,,,Harold Cummings,4-2-2-2,Marco Ortíz,Match Report,,,,,0,0,2022,Panama 
+269,2021-06-05,19:00,WCQ,First round,Sat,Away,W,13,0,ai Anguilla,,5000.0,Adolfo Machado,4-1-4-1,Sergio Reyna,Match Report,,,,,2,2,2022,Panama 
+270,2021-06-08,20:05,WCQ,First round,Tue,Home,W,3,0,do Dominican Rep.,,5674.0,Harold Cummings,4-2-3-1,Walter López,Match Report,,,,,0,0,2022,Panama 
+271,2021-06-12,18:05,WCQ,Second round,Sat,Home,W,2,1,cw Curaçao,,7000.0,Harold Cummings,4-2-3-1,Jaime Herrera,Match Report,Leg 1 of 2,,,,0,0,2022,Panama 
+272,2021-06-15,19:00,WCQ,Second round,Tue,Away,D,0,0,cw Curaçao,,2760.0,Harold Cummings,4-2-3-1,Marco Ortíz,Match Report,Leg 2 of 2; Panama won,,,,0,1,2022,Panama 
+273,2021-09-02,20:05,WCQ,Third round,Thu,Home,D,0,0,cr Costa Rica,,14000.0,Aníbal Godoy,4-2-3-1,Iván Barton,Match Report,,,,,0,0,2022,Panama 
+274,2021-09-05,17:00,WCQ,Third round,Sun,Away,W,3,0,jm Jamaica,,,Aníbal Godoy,4-2-3-1,Ismael Cornejo,Match Report,,,,,0,0,2022,Panama 
+275,2021-09-08,19:05,WCQ,Third round,Wed,Home,D,1,1,mx Mexico,,16000.0,Aníbal Godoy,4-2-3-1,Mario Escobar,Match Report,,,,,0,0,2022,Panama 
+276,2021-10-07,20:05,WCQ,Third round,Thu,Away,L,0,1,sv El Salvador,,5935.0,Aníbal Godoy,4-2-3-1,Oshane Nation,Match Report,,,,,0,0,2022,Panama 
+277,2021-10-10,17:05,WCQ,Third round,Sun,Home,W,1,0,us United States,,16228.0,Aníbal Godoy,4-2-3-1,César Arturo Ramos,Match Report,,,,,0,0,2022,Panama 
+278,2021-10-13,19:30,WCQ,Third round,Wed,Away,L,1,4,ca Canada,,26622.0,Aníbal Godoy,4-2-3-1,Armando Villarreal,Match Report,,,,,0,0,2022,Panama 
+279,2021-11-12,19:05,WCQ,Third round,Fri,Away,W,3,2,hn Honduras,,8000.0,Erick Davis,4-1-4-1,Drew Fischer,Match Report,,,,,0,0,2022,Panama 
+280,2021-11-16,20:05,WCQ,Third round,Tue,Home,W,2,1,sv El Salvador,,22500.0,Aníbal Godoy,4-2-2-2,Marco Ortíz,Match Report,,,,,0,0,2022,Panama 
+281,2022-01-16,16:00,Friendlies (M),Friendlies (M),Sun,Neutral,D,1,1,pe Peru,,,Alberto Quintero,4-2-2-2,Fernando Echenique,Match Report,,,,,0,0,2022,Panama 
+282,2022-01-27,20:05,WCQ,Third round,Thu,Away,L,0,1,cr Costa Rica,,16534.0,Aníbal Godoy,4-2-3-1,Ismail Elfath,Match Report,,,,,0,0,2022,Panama 
+283,2022-01-30,17:05,WCQ,Third round,Sun,Home,W,3,2,jm Jamaica,,,Aníbal Godoy,4-2-3-1,Selvin Brown,Match Report,,,,,0,0,2022,Panama 
+284,2022-02-02,21:00,WCQ,Third round,Wed,Away,L,0,1,mx Mexico,,2000.0,Aníbal Godoy,4-2-2-2,Iván Barton,Match Report,,,,,0,0,2022,Panama 
+285,2022-03-24,20:05,WCQ,Third round,Thu,Home,D,1,1,hn Honduras,,21000.0,Aníbal Godoy,4-2-3-1,Ismail Elfath,Match Report,,,,,0,0,2022,Panama 
+286,2022-03-27,19:00,WCQ,Third round,Sun,Away,L,1,5,us United States,,25022.0,Aníbal Godoy,4-2-3-1,Iván Barton,Match Report,,,,,0,0,2022,Panama 
+287,2022-03-30,20:05,WCQ,Third round,Wed,Home,W,1,0,ca Canada,,8000.0,Aníbal Godoy,4-2-3-1,Jair Marrufo,Match Report,,,,,0,0,2022,Panama 
+288,2022-09-27,18:30,Friendlies (M),Friendlies (M),Tue,Neutral,W,2,0,bh Bahrain,,,Fidel Escobar,3-4-3,Faisal Nasser Al Qahtani,Match Report,,,,,0,0,2022,Panama 
+289,2022-11-10,16:00,Friendlies (M),Friendlies (M),Thu,Neutral,D,1,1,sa Saudi Arabia,,,Aníbal Godoy,3-4-3,Yahya Ali Al Mulla,Match Report,,,,,0,0,2022,Panama 
+290,2022-11-15,21:00,Friendlies (M),Friendlies (M),Tue,Neutral,D,2,2,ve Venezuela,,,Aníbal Godoy,3-4-3,Sultan Mohamed Al Hammadi,Match Report,,,,,0,0,2022,Panama 
+291,2022-11-18,14:00,Friendlies (M),Friendlies (M),Fri,Neutral,D,1,1,cm Cameroon,,,Aníbal Godoy,3-3-2-2,Sultan Mohamed Al Hammadi,Match Report,,,,,0,0,2022,Panama 
+292,2021-09-02,20:05,WCQ,Third round,Thu,Away,D,0,0,sv El Salvador,,29000.0,Tyler Adams,,Juan Gabriel Calderón,Match Report,,,,,0,0,2022,United-States 
+293,2021-09-05,19:12,WCQ,Third round,Sun,Home,D,1,1,ca Canada,,43028.0,Christian Pulisic,4-1-4-1,Oshane Nation,Match Report,,,,,0,0,2022,United-States 
+294,2021-09-08,20:30,WCQ,Third round,Wed,Away,W,4,1,hn Honduras,,31000.0,Christian Pulisic,3-4-3,Fernando Hernández,Match Report,,,,,0,0,2022,United-States 
+295,2021-10-07,18:45,WCQ,Third round,Thu,Home,W,2,0,jm Jamaica,,20500.0,Tyler Adams,4-1-4-1,Reon Radix,Match Report,,,,,0,0,2022,United-States 
+296,2021-10-10,17:05,WCQ,Third round,Sun,Away,L,0,1,pa Panama,,16228.0,Walker Zimmerman,4-1-4-1,César Arturo Ramos,Match Report,,,,,0,0,2022,United-States 
+297,2021-10-13,19:00,WCQ,Third round,Wed,Home,W,2,1,cr Costa Rica,,20165.0,Tyler Adams,4-1-4-1,Daneon Parchment,Match Report,,,,,0,0,2022,United-States 
+298,2021-11-12,21:10,WCQ,Third round,Fri,Home,W,2,0,mx Mexico,,26000.0,Tyler Adams,4-1-4-1,Iván Barton,Match Report,,,,,0,0,2022,United-States 
+299,2021-11-16,17:00,WCQ,Third round,Tue,Away,D,1,1,jm Jamaica,,4100.0,Tyler Adams,4-1-4-1,Juan Gabriel Calderón,Match Report,,,,,0,0,2022,United-States 
+300,2022-01-27,19:00,WCQ,Third round,Thu,Home,W,1,0,sv El Salvador,,20000.0,Christian Pulisic,4-1-4-1,Bryan López,Match Report,,,,,0,0,2022,United-States 
+301,2022-01-30,15:05,WCQ,Third round,Sun,Away,L,0,2,ca Canada,,12000.0,Tyler Adams,4-1-4-1,César Arturo Ramos,Match Report,,,,,0,0,2022,United-States 
+302,2022-02-02,18:30,WCQ,Third round,Wed,Home,W,3,0,hn Honduras,,19202.0,Walker Zimmerman,4-1-4-1,Oshane Nation,Match Report,,,,,0,0,2022,United-States 
+303,2022-03-24,20:00,WCQ,Third round,Thu,Away,D,0,0,mx Mexico,,47000.0,Tyler Adams,4-1-4-1,Mario Escobar,Match Report,,,,,0,0,2022,United-States 
+304,2022-03-27,19:00,WCQ,Third round,Sun,Home,W,5,1,pa Panama,,25022.0,Christian Pulisic,4-1-4-1,Iván Barton,Match Report,,,,,2,2,2022,United-States 
+305,2022-03-30,19:05,WCQ,Third round,Wed,Away,L,0,2,cr Costa Rica,,35000.0,Walker Zimmerman,4-1-4-1,Drew Fischer,Match Report,,,,,0,0,2022,United-States 
+306,2022-06-01,19:30,Friendlies (M),Friendlies (M),Wed,Neutral,W,3,0,ma Morocco,,19512.0,Christian Pulisic,4-1-4-1,Ismael Cornejo,Match Report,,,,,1,1,2022,United-States 
+307,2022-09-23,14:25,Friendlies (M),Friendlies (M),Fri,Neutral,L,0,2,jp Japan,,5149.0,Walker Zimmerman,4-1-4-1,Felix Zwayer,Match Report,,,,,0,0,2022,United-States 
+308,2022-09-27,20:00,Friendlies (M),Friendlies (M),Tue,Neutral,D,0,0,sa Saudi Arabia,,364.0,Christian Pulisic,4-3-3,Ivan Bebek,Match Report,,,,,0,0,2022,United-States 
+309,2022-11-21,22:00,World Cup,Group stage,Mon,Neutral,D,1,1,wls Wales,58.0,43418.0,Tyler Adams,4-3-3,Abdulrahman Ibrahim Al Jassim,Match Report,,6.0,1.0,16.6,0,0,2022,United-States 
+310,2022-11-25,22:00,World Cup,Group stage,Fri,Neutral,D,0,0,eng England,45.0,68463.0,Tyler Adams,4-4-2,Jesús Valenzuela,Match Report,,10.0,1.0,18.3,0,0,2022,United-States 
+311,2022-11-29,22:00,World Cup,Group stage,Tue,Neutral,W,1,0,ir IR Iran,51.0,42127.0,Tyler Adams,4-3-3,Antonio Matéu,Match Report,,12.0,5.0,16.4,0,0,2022,United-States 
+312,2022-12-03,18:00,World Cup,Round of 16,Sat,Neutral,L,1,3,nl Netherlands,58.0,44846.0,Tyler Adams,4-3-3,Wilton Sampaio,Match Report,,17.0,6.0,17.0,0,0,2022,United-States 
+313,2020-10-09,21:30,WCQ,WCQ — CONMEBOL (M),Fri,Away,L,0,5,br Brazil,31.0,,Carlos Lampe,4-5-1,Leodán González,Match Report,,3.0,1.0,,0,0,2022,Bolivia 
+314,2020-10-13,16:00,WCQ,WCQ — CONMEBOL (M),Tue,Home,L,1,2,ar Argentina,57.0,,Marcelo Martins Moreno,4-4-2,Diego Haro,Match Report,,10.0,3.0,,0,0,2022,Bolivia 
+315,2020-11-12,16:00,WCQ,WCQ — CONMEBOL (M),Thu,Home,L,2,3,ec Ecuador,38.0,,Marcelo Martins Moreno,4-2-3-1,Wilton Pereira Sampaio,Match Report,,18.0,6.0,,0,0,2022,Bolivia 
+316,2020-11-17,20:00,WCQ,WCQ — CONMEBOL (M),Tue,Away,D,2,2,py Paraguay,24.0,,Marcelo Martins Moreno,4-4-2,Alexis Herrera,Match Report,,7.0,2.0,,0,0,2022,Bolivia 
+317,2021-06-03,16:00,WCQ,WCQ — CONMEBOL (M),Thu,Home,W,3,1,ve Venezuela,53.0,,Marcelo Martins Moreno,4-1-4-1,John J. Ospina,Match Report,,18.0,7.0,,0,0,2022,Bolivia 
+318,2021-06-08,21:30,WCQ,WCQ — CONMEBOL (M),Tue,Away,D,1,1,cl Chile,23.0,,Marcelo Martins Moreno,4-5-1,Eber Aguino,Match Report,,8.0,1.0,,1,1,2022,Bolivia 
+319,2021-09-02,16:00,WCQ,WCQ — CONMEBOL (M),Thu,Home,D,1,1,co Colombia,57.0,,Marcelo Martins Moreno,4-2-3-1,Alexis Herrera,Match Report,,22.0,3.0,,0,0,2022,Bolivia 
+320,2021-09-05,19:00,WCQ,WCQ — CONMEBOL (M),Sun,Away,L,2,4,uy Uruguay,46.0,,Marcelo Martins Moreno,4-2-3-1,Eber Aguino,Match Report,,8.0,5.0,,1,1,2022,Bolivia 
+321,2021-09-09,20:30,WCQ,WCQ — CONMEBOL (M),Thu,Away,L,0,3,ar Argentina,29.0,,Marcelo Martins Moreno,5-3-2,Kevin Ortega,Match Report,,7.0,3.0,,0,0,2022,Bolivia 
+322,2021-10-07,19:30,WCQ,WCQ — CONMEBOL (M),Thu,Away,L,0,3,ec Ecuador,32.0,,Marcelo Martins Moreno,5-3-2,Wilmar Roldán,Match Report,,4.0,3.0,,0,0,2022,Bolivia 
+323,2021-10-10,16:00,WCQ,WCQ — CONMEBOL (M),Sun,Home,W,1,0,pe Peru,56.0,,Marcelo Martins Moreno,4-4-2,Guillermo Guerrero,Match Report,,21.0,4.0,,0,0,2022,Bolivia 
+324,2021-10-14,16:00,WCQ,WCQ — CONMEBOL (M),Thu,Home,W,4,0,py Paraguay,46.0,,Marcelo Martins Moreno,5-3-2,Andrés Matonte,Match Report,,18.0,8.0,,0,0,2022,Bolivia 
+325,2021-11-11,21:00,WCQ,WCQ — CONMEBOL (M),Thu,Away,L,0,3,pe Peru,50.0,,Marcelo Martins Moreno,5-3-2,Eber Aguino,Match Report,,7.0,3.0,,0,0,2022,Bolivia 
+326,2021-11-16,16:00,WCQ,WCQ — CONMEBOL (M),Tue,Home,W,3,0,uy Uruguay,55.0,,Marcelo Martins Moreno,3-4-1-2,Wilton Sampaio,Match Report,,11.0,4.0,,0,1,2022,Bolivia 
+327,2022-01-21,17:00,Friendlies (M),Friendlies (M),Fri,Neutral,W,5,0,tt Trin & Tobago,,,Marcelo Martins Moreno,3-2-3-2,Wagner do Nascimento Magalhães,Match Report,,,,,1,1,2022,Bolivia 
+328,2022-01-28,18:00,WCQ,WCQ — CONMEBOL (M),Fri,Away,L,1,4,ve Venezuela,45.0,,Marcelo Martins Moreno,3-4-1-2,Guillermo Guerrero,Match Report,,6.0,1.0,,0,0,2022,Bolivia 
+329,2022-02-01,16:00,WCQ,WCQ — CONMEBOL (M),Tue,Home,L,2,3,cl Chile,56.0,,Marcelo Martins Moreno,3-4-1-2,Alexis Herrera,Match Report,,21.0,10.0,,0,0,2022,Bolivia 
+330,2022-03-24,18:30,WCQ,WCQ — CONMEBOL (M),Thu,Away,L,0,3,co Colombia,24.0,,Moisés Villarroel Angulo,5-4-1,Facundo Tello,Match Report,,2.0,0.0,,0,0,2022,Bolivia 
+331,2022-03-29,19:30,WCQ,WCQ — CONMEBOL (M),Tue,Home,L,0,4,br Brazil,44.0,,Marcelo Martins Moreno,5-4-1,Eber Aquino,Match Report,,16.0,6.0,,0,0,2022,Bolivia 
+332,2022-09-24,19:15,Friendlies (M),Friendlies (M),Sat,Neutral,L,0,2,sn Senegal,,,Marcelo Martins Moreno,4-1-4-1,Bastien Dechepy,Match Report,,,,,0,0,2022,Bolivia 
+333,2022-11-19,21:00,Friendlies (M),Friendlies (M),Sat,Away,L,0,1,pe Peru,,,Marcelo Martins Moreno,4-2-3-1,Flavio Rodrigues De Souza,Match Report,,,,,0,0,2022,Bolivia 
+334,2020-10-09,18:30,WCQ,WCQ — CONMEBOL (M),Fri,Home,W,3,0,ve Venezuela,58.0,,James Rodríguez,4-3-3,Guillermo Guerrero,Match Report,,8.0,6.0,,0,0,2022,Colombia 
+335,2020-10-13,21:30,WCQ,WCQ — CONMEBOL (M),Tue,Away,D,2,2,cl Chile,54.0,,James Rodríguez,4-3-3,Darío Herrera,Match Report,,11.0,4.0,,0,0,2022,Colombia 
+336,2020-11-13,15:30,WCQ,WCQ — CONMEBOL (M),Fri,Home,L,0,3,uy Uruguay,63.0,,David Ospina,4-3-3,Fernando Rapallini,Match Report,,11.0,2.0,,0,0,2022,Colombia 
+337,2020-11-17,16:00,WCQ,WCQ — CONMEBOL (M),Tue,Away,L,1,6,ec Ecuador,47.0,,James Rodríguez,4-3-3,Jesús Valenzuela,Match Report,,10.0,2.0,,1,1,2022,Colombia 
+338,2021-06-03,21:00,WCQ,WCQ — CONMEBOL (M),Thu,Away,W,3,0,pe Peru,51.0,,David Ospina,4-4-2,Wilton Sampaio,Match Report,,11.0,4.0,,0,0,2022,Colombia 
+339,2021-06-08,18:00,WCQ,WCQ — CONMEBOL (M),Tue,Home,D,2,2,ar Argentina,48.0,,David Ospina,4-3-3,Roberto Tobar,Match Report,,12.0,5.0,,1,1,2022,Colombia 
+340,2021-09-02,16:00,WCQ,WCQ — CONMEBOL (M),Thu,Away,D,1,1,bo Bolivia,43.0,,David Ospina,4-2-3-1,Alexis Herrera,Match Report,,11.0,4.0,,0,0,2022,Colombia 
+341,2021-09-05,18:00,WCQ,WCQ — CONMEBOL (M),Sun,Away,D,1,1,py Paraguay,46.0,,David Ospina,4-4-2,Raphael Claus,Match Report,,20.0,7.0,,1,1,2022,Colombia 
+342,2021-09-09,18:00,WCQ,WCQ — CONMEBOL (M),Thu,Home,W,3,1,cl Chile,52.0,,David Ospina,4-4-2,Andrés Cunha,Match Report,,8.0,4.0,,1,1,2022,Colombia 
+343,2021-10-07,20:00,WCQ,WCQ — CONMEBOL (M),Thu,Away,D,0,0,uy Uruguay,51.0,,David Ospina,4-4-2,Jesús Valenzuela,Match Report,,7.0,3.0,,0,0,2022,Colombia 
+344,2021-10-10,16:00,WCQ,WCQ — CONMEBOL (M),Sun,Home,D,0,0,br Brazil,37.0,,David Ospina,4-4-1-1,Patricio Loustau,Match Report,,12.0,4.0,,0,0,2022,Colombia 
+345,2021-10-14,16:00,WCQ,WCQ — CONMEBOL (M),Thu,Home,D,0,0,ec Ecuador,62.0,,David Ospina,4-4-2,Diego Haro,Match Report,,13.0,4.0,,0,0,2022,Colombia 
+346,2021-11-11,21:30,WCQ,WCQ — CONMEBOL (M),Thu,Away,L,0,1,br Brazil,37.0,,David Ospina,4-3-3,Roberto Tobar,Match Report,,5.0,1.0,,0,0,2022,Colombia 
+347,2021-11-16,18:00,WCQ,WCQ — CONMEBOL (M),Tue,Home,D,0,0,py Paraguay,65.0,,David Ospina,4-4-2,Facundo Tello,Match Report,,14.0,2.0,,0,0,2022,Colombia 
+348,2022-01-16,17:30,Friendlies (M),Friendlies (M),Sun,Neutral,W,2,1,hn Honduras,,13700.0,Juan Quintero,4-2-2-2,David Gómez,Match Report,,,,,0,0,2022,Colombia 
+349,2022-01-28,16:00,WCQ,WCQ — CONMEBOL (M),Fri,Home,L,0,1,pe Peru,69.0,,David Ospina,4-4-2,Jesús Valenzuela,Match Report,,30.0,2.0,,0,0,2022,Colombia 
+350,2022-02-01,20:30,WCQ,WCQ — CONMEBOL (M),Tue,Away,L,0,1,ar Argentina,44.0,,Juan Cuadrado,4-3-3,Raphael Claus,Match Report,,5.0,2.0,,0,0,2022,Colombia 
+351,2022-03-24,18:30,WCQ,WCQ — CONMEBOL (M),Thu,Home,W,3,0,bo Bolivia,76.0,,David Ospina,4-3-3,Facundo Tello,Match Report,,19.0,7.0,,0,0,2022,Colombia 
+352,2022-03-29,19:30,WCQ,WCQ — CONMEBOL (M),Tue,Away,W,1,0,ve Venezuela,54.0,,David Ospina,4-2-3-1,Wilton Sampaio,Match Report,,14.0,7.0,,1,1,2022,Colombia 
+353,2022-06-05,19:00,Friendlies (M),Friendlies (M),Sun,Neutral,W,1,0,sa Saudi Arabia,,2000.0,Davinson Sánchez,4-1-4-1,Jason Barcelo,Match Report,,,,,0,0,2022,Colombia 
+354,2022-09-24,20:00,Friendlies (M),Friendlies (M),Sat,Neutral,W,4,1,gt Guatemala,,,Radamel Falcao,4-2-3-1,Ismael Cornejo,Match Report,,,,,0,0,2022,Colombia 
+355,2022-09-27,19:00,Friendlies (M),Friendlies (M),Tue,Neutral,W,3,2,mx Mexico,,67311.0,Radamel Falcao,4-2-3-1,Nima Saghafi,Match Report,,,,,0,0,2022,Colombia 
+356,2022-11-19,20:00,Friendlies (M),Friendlies (M),Sat,Neutral,W,2,0,py Paraguay,,,David Ospina,4-2-3-1,Rubiel Vázquez,Match Report,,,,,0,0,2022,Colombia 
+357,2020-10-09,21:30,WCQ,WCQ — CONMEBOL (M),Fri,Home,W,5,0,bo Bolivia,69.0,,Casemiro,4-3-3,Leodán González,Match Report,,20.0,9.0,,0,0,2022,Brazil 
+358,2020-10-13,19:00,WCQ,WCQ — CONMEBOL (M),Tue,Away,W,4,2,pe Peru,66.0,,Thiago Silva,4-3-3,Julio Bascuñán,Match Report,,13.0,9.0,,2,2,2022,Brazil 
+359,2020-11-13,21:30,WCQ,WCQ — CONMEBOL (M),Fri,Home,W,1,0,ve Venezuela,74.0,,Thiago Silva,4-3-3,Juan Benítez,Match Report,,11.0,3.0,,0,0,2022,Brazil 
+360,2020-11-17,20:00,WCQ,WCQ — CONMEBOL (M),Tue,Away,W,2,0,uy Uruguay,59.0,,Thiago Silva,4-3-3,Roberto Tobar,Match Report,,6.0,4.0,,0,0,2022,Brazil 
+361,2021-06-04,21:30,WCQ,WCQ — CONMEBOL (M),Fri,Home,W,2,0,ec Ecuador,66.0,,Casemiro,4-3-3,Alexis Herrera,Match Report,,16.0,7.0,,1,1,2022,Brazil 
+362,2021-06-08,20:30,WCQ,WCQ — CONMEBOL (M),Tue,Away,W,2,0,py Paraguay,50.0,,Marquinhos,4-2-2-2,Patricio Loustau,Match Report,,13.0,4.0,,0,0,2022,Brazil 
+363,2021-09-02,21:00,WCQ,WCQ — CONMEBOL (M),Thu,Away,W,1,0,cl Chile,39.0,,Casemiro,4-4-2,Diego Haro,Match Report,,10.0,4.0,,0,0,2022,Brazil 
+364,2021-09-09,21:30,WCQ,WCQ — CONMEBOL (M),Thu,Home,W,2,0,pe Peru,58.0,,Casemiro,4-4-2,Wilmar Roldán,Match Report,,10.0,4.0,,0,0,2022,Brazil 
+365,2021-10-07,19:30,WCQ,WCQ — CONMEBOL (M),Thu,Away,W,3,1,ve Venezuela,67.0,,Thiago Silva,4-4-2,Kevin Ortega,Match Report,,12.0,5.0,,1,1,2022,Brazil 
+366,2021-10-10,16:00,WCQ,WCQ — CONMEBOL (M),Sun,Away,D,0,0,co Colombia,64.0,,Marquinhos,4-2-3-1,Patricio Loustau,Match Report,,9.0,4.0,,0,0,2022,Brazil 
+367,2021-10-14,20:30,WCQ,WCQ — CONMEBOL (M),Thu,Home,W,4,1,uy Uruguay,55.0,,Thiago Silva,4-2-3-1,Fernando Rapallini,Match Report,,22.0,13.0,,0,0,2022,Brazil 
+368,2021-11-11,21:30,WCQ,WCQ — CONMEBOL (M),Thu,Home,W,1,0,co Colombia,63.0,,Thiago Silva,4-3-3,Roberto Tobar,Match Report,,16.0,6.0,,0,0,2022,Brazil 
+369,2021-11-16,20:30,WCQ,WCQ — CONMEBOL (M),Tue,Away,D,0,0,ar Argentina,44.0,,Marquinhos,4-2-3-1,Andrés Cunha,Match Report,,9.0,2.0,,0,0,2022,Brazil 
+370,2022-01-27,16:00,WCQ,WCQ — CONMEBOL (M),Thu,Away,D,1,1,ec Ecuador,54.0,,Casemiro,4-4-2,Wilmar Roldán,Match Report,,12.0,6.0,,0,0,2022,Brazil 
+371,2022-02-01,21:30,WCQ,WCQ — CONMEBOL (M),Tue,Home,W,4,0,py Paraguay,77.0,,Dani Alves,4-3-3,Facundo Tello,Match Report,,22.0,8.0,,0,0,2022,Brazil 
+372,2022-03-24,20:30,WCQ,WCQ — CONMEBOL (M),Thu,Home,W,4,0,cl Chile,58.0,,Thiago Silva,4-2-3-1,Darío Herrera,Match Report,,18.0,9.0,,2,2,2022,Brazil 
+373,2022-03-29,19:30,WCQ,WCQ — CONMEBOL (M),Tue,Away,W,4,0,bo Bolivia,56.0,,Dani Alves,4-2-3-1,Eber Aquino,Match Report,,20.0,9.0,,0,0,2022,Brazil 
+374,2022-06-02,20:00,Friendlies (M),Friendlies (M),Thu,Neutral,W,5,1,kr Korea Republic,,64872.0,Dani Alves,4-2-2-2,Ryūji Satō,Match Report,,,,,2,2,2022,Brazil 
+375,2022-06-06,19:20,Friendlies (M),Friendlies (M),Mon,Neutral,W,1,0,jp Japan,,63638.0,Dani Alves,4-2-2-2,Alireza Faghani,Match Report,,,,,1,1,2022,Brazil 
+376,2022-09-23,20:30,Friendlies (M),Friendlies (M),Fri,Neutral,W,3,0,gh Ghana,,,Thiago Silva,4-3-3,Mikael Lesage,Match Report,,,,,0,0,2022,Brazil 
+377,2022-09-27,15:30,Friendlies (M),Friendlies (M),Tue,Neutral,W,5,1,tn Tunisia,,,Thiago Silva,4-2-3-1,Ruddy Buquet,Match Report,,,,,1,1,2022,Brazil 
+378,2022-11-24,22:00,World Cup,Group stage,Thu,Neutral,W,2,0,rs Serbia,59.0,88103.0,Thiago Silva,4-2-3-1,Alireza Faghani,Match Report,,23.0,9.0,21.6,0,0,2022,Brazil 
+379,2022-11-28,19:00,World Cup,Group stage,Mon,Neutral,W,1,0,ch Switzerland,54.0,43649.0,Thiago Silva,4-3-3,Iván Barton,Match Report,,13.0,5.0,17.7,0,0,2022,Brazil 
+380,2022-12-02,22:00,World Cup,Group stage,Fri,Neutral,L,0,1,cm Cameroon,65.0,85986.0,Dani Alves,4-2-3-1,Ismail Elfath,Match Report,,21.0,7.0,14.8,0,0,2022,Brazil 
+381,2022-12-05,22:00,World Cup,Round of 16,Mon,Neutral,W,4,1,kr Korea Republic,53.0,43847.0,Thiago Silva,4-2-3-1,Clément Turpin,Match Report,,17.0,8.0,16.1,1,1,2022,Brazil 
+382,2022-12-09,18:00,World Cup,Quarter-finals,Fri,Neutral,D,1 (2),1 (4),hr Croatia,50.0,43893.0,Thiago Silva,4-2-3-1,Michael Oliver,Match Report,Croatia won on penalty kicks following extra time,21.0,11.0,16.6,0,0,2022,Brazil 
+383,2021-09-02,20:05,WCQ,Third round,Thu,Away,D,0,0,pa Panama,,14000.0,Celso Borges,4-1-4-1,Iván Barton,Match Report,,,,,0,0,2022,Costa-Rica 
+384,2021-09-05,17:05,WCQ,Third round,Sun,Home,L,0,1,mx Mexico,,2200.0,Bryan Ruiz,4-2-3-1,Ismail Elfath,Match Report,,,,,0,0,2022,Costa-Rica 
+385,2021-09-08,19:05,WCQ,Third round,Wed,Home,D,1,1,jm Jamaica,,3000.0,Bryan Ruiz,4-2-3-1,Drew Fischer,Match Report,,,,,0,0,2022,Costa-Rica 
+386,2021-10-07,18:05,WCQ,Third round,Thu,Away,D,0,0,hn Honduras,,18500.0,Keylor Navas,3-4-3,Mario Escobar,Match Report,,,,,0,0,2022,Costa-Rica 
+387,2021-10-10,16:05,WCQ,Third round,Sun,Home,W,2,1,sv El Salvador,,4500.0,Bryan Ruiz,4-2-3-1,Said Martínez,Match Report,,,,,1,1,2022,Costa-Rica 
+388,2021-10-13,19:00,WCQ,Third round,Wed,Away,L,1,2,us United States,,20165.0,Bryan Ruiz,4-2-2-2,Daneon Parchment,Match Report,,,,,0,0,2022,Costa-Rica 
+389,2021-11-12,19:05,WCQ,Third round,Fri,Away,L,0,1,ca Canada,,48806.0,Óscar Duarte,4-1-4-1,Ismail Elfath,Match Report,,,,,0,0,2022,Costa-Rica 
+390,2021-11-16,19:05,WCQ,Third round,Tue,Home,W,2,1,hn Honduras,,7000.0,Keylor Navas,4-2-3-1,Jair Marrufo,Match Report,,,,,0,0,2022,Costa-Rica 
+391,2022-01-27,20:05,WCQ,Third round,Thu,Home,W,1,0,pa Panama,,16534.0,Keylor Navas,4-4-2,Ismail Elfath,Match Report,,,,,0,0,2022,Costa-Rica 
+392,2022-01-30,17:00,WCQ,Third round,Sun,Away,D,0,0,mx Mexico,,2000.0,Keylor Navas,4-1-4-1,Said Martínez,Match Report,,,,,0,0,2022,Costa-Rica 
+393,2022-02-02,19:00,WCQ,Third round,Wed,Away,W,1,0,jm Jamaica,,,Keylor Navas,3-4-3,Marco Ortíz,Match Report,,,,,0,1,2022,Costa-Rica 
+394,2022-03-24,20:05,WCQ,Third round,Thu,Home,W,1,0,ca Canada,,35000.0,Keylor Navas,3-4-3,Said Martínez,Match Report,,,,,0,0,2022,Costa-Rica 
+395,2022-03-27,15:05,WCQ,Third round,Sun,Away,W,2,1,sv El Salvador,,,Keylor Navas,3-4-3,Daneon Parchment,Match Report,,,,,0,0,2022,Costa-Rica 
+396,2022-03-30,19:05,WCQ,Third round,Wed,Home,W,2,0,us United States,,35000.0,Keylor Navas,3-4-3,Drew Fischer,Match Report,,,,,0,0,2022,Costa-Rica 
+397,2022-06-14,21:00,WCQ Play-offs,WCQ — Inter-confederation play-offs (M),Tue,Neutral,W,1,0,nz New Zealand,,,Keylor Navas,4-2-2-2,Mohammed Abdulla Hassan,Match Report,,,,,0,0,2022,Costa-Rica 
+398,2022-09-23,20:00,Friendlies (M),Friendlies (M),Fri,Neutral,D,2,2,kr Korea Republic,,37581.0,Celso Borges,4-2-2-2,Alex King,Match Report,,,,,0,0,2022,Costa-Rica 
+399,2022-09-27,15:00,Friendlies (M),Friendlies (M),Tue,Neutral,W,2,1,uz Uzbekistan,,,Kendall Waston,4-1-4-1,Kim Daeyong,Match Report,,,,,0,0,2022,Costa-Rica 
+400,2022-11-09,20:00,Friendlies (M),Friendlies (M),Wed,Neutral,W,2,0,ng Nigeria,,,Bryan Ruiz,4-2-3-1,Fernando Hernández,Match Report,,,,,0,0,2022,Costa-Rica 
+401,2022-11-23,19:00,World Cup,Group stage,Wed,Neutral,L,0,7,es Spain,19.0,40013.0,Keylor Navas,4-4-2,Mohammed Abdulla Hassan,Match Report,,0.0,0.0,,0,0,2022,Costa-Rica 
+402,2022-11-27,13:00,World Cup,Group stage,Sun,Neutral,W,1,0,jp Japan,43.0,41479.0,Keylor Navas,3-4-3,Michael Oliver,Match Report,,4.0,1.0,24.5,0,0,2022,Costa-Rica 
+403,2022-12-01,22:00,World Cup,Group stage,Thu,Neutral,L,2,4,de Germany,32.0,67054.0,Keylor Navas,5-4-1,Stéphanie Frappart,Match Report,,8.0,6.0,13.3,0,0,2022,Costa-Rica 
+404,2020-10-08,19:30,WCQ,WCQ — CONMEBOL (M),Thu,Home,D,2,2,pe Peru,60.0,,Gustavo Gómez,4-2-3-1,Néstor Pitana,Match Report,,12.0,6.0,,0,0,2022,Paraguay 
+405,2020-10-13,18:00,WCQ,WCQ — CONMEBOL (M),Tue,Away,W,1,0,ve Venezuela,67.0,,Gustavo Gómez,4-3-3,Andrés Rojas,Match Report,,8.0,3.0,,0,0,2022,Paraguay 
+406,2020-11-12,21:00,WCQ,WCQ — CONMEBOL (M),Thu,Away,D,1,1,ar Argentina,32.0,,Gustavo Gómez,4-3-3,Raphael Claus,Match Report,,7.0,2.0,,1,1,2022,Paraguay 
+407,2020-11-17,20:00,WCQ,WCQ — CONMEBOL (M),Tue,Home,D,2,2,bo Bolivia,76.0,,Gustavo Gómez,4-3-3,Alexis Herrera,Match Report,,18.0,6.0,,1,1,2022,Paraguay 
+408,2021-06-03,19:00,WCQ,WCQ — CONMEBOL (M),Thu,Away,D,0,0,uy Uruguay,43.0,,Gustavo Gómez,4-3-3,Wilmar Roldán,Match Report,,7.0,4.0,,0,0,2022,Paraguay 
+409,2021-06-08,20:30,WCQ,WCQ — CONMEBOL (M),Tue,Home,L,0,2,br Brazil,50.0,,Gustavo Gómez,5-3-2,Patricio Loustau,Match Report,,10.0,3.0,,0,0,2022,Paraguay 
+410,2021-09-02,16:00,WCQ,WCQ — CONMEBOL (M),Thu,Away,L,0,2,ec Ecuador,36.0,,Júnior Alonso,4-1-4-1,Andrés Matonte,Match Report,,6.0,1.0,,0,0,2022,Paraguay 
+411,2021-09-05,18:00,WCQ,WCQ — CONMEBOL (M),Sun,Home,D,1,1,co Colombia,54.0,,Gustavo Gómez,4-3-3,Raphael Claus,Match Report,,7.0,3.0,,0,0,2022,Paraguay 
+412,2021-09-09,18:30,WCQ,WCQ — CONMEBOL (M),Thu,Home,W,2,1,ve Venezuela,48.0,,Júnior Alonso,4-2-3-1,Roberto Tobar,Match Report,,10.0,4.0,,0,0,2022,Paraguay 
+413,2021-10-07,20:00,WCQ,WCQ — CONMEBOL (M),Thu,Home,D,0,0,ar Argentina,31.0,,Gustavo Gómez,5-4-1,Anderson Daronco,Match Report,,10.0,3.0,,0,0,2022,Paraguay 
+414,2021-10-10,21:00,WCQ,WCQ — CONMEBOL (M),Sun,Away,L,0,2,cl Chile,39.0,,Gustavo Gómez,4-2-3-1,Néstor Pitana,Match Report,,5.0,0.0,,0,0,2022,Paraguay 
+415,2021-10-14,16:00,WCQ,WCQ — CONMEBOL (M),Thu,Away,L,0,4,bo Bolivia,54.0,,Gustavo Gómez,4-3-3,Andrés Matonte,Match Report,,17.0,4.0,,0,1,2022,Paraguay 
+416,2021-11-11,20:00,WCQ,WCQ — CONMEBOL (M),Thu,Home,L,0,1,cl Chile,40.0,,Gustavo Gómez,4-1-4-1,Patricio Loustau,Match Report,,6.0,2.0,,0,0,2022,Paraguay 
+417,2021-11-16,18:00,WCQ,WCQ — CONMEBOL (M),Tue,Away,D,0,0,co Colombia,35.0,,Gustavo Gómez,4-1-4-1,Facundo Tello,Match Report,,8.0,0.0,,0,0,2022,Paraguay 
+418,2022-01-27,20:00,WCQ,WCQ — CONMEBOL (M),Thu,Home,L,0,1,uy Uruguay,47.0,,Gustavo Gómez,4-4-2,Darío Herrera,Match Report,,8.0,2.0,,0,0,2022,Paraguay 
+419,2022-02-01,21:30,WCQ,WCQ — CONMEBOL (M),Tue,Away,L,0,4,br Brazil,23.0,,Fabián Balbuena,4-2-3-1,Facundo Tello,Match Report,,6.0,2.0,,0,0,2022,Paraguay 
+420,2022-03-24,20:30,WCQ,WCQ — CONMEBOL (M),Thu,Home,W,3,1,ec Ecuador,43.0,,Gustavo Gómez,4-1-3-2,Jesús Valenzuela,Match Report,,10.0,2.0,,0,0,2022,Paraguay 
+421,2022-03-29,18:30,WCQ,WCQ — CONMEBOL (M),Tue,Away,L,0,2,pe Peru,57.0,,Fabián Balbuena,4-1-3-2,Fernando Rapallini,Match Report,,11.0,1.0,,0,0,2022,Paraguay 
+422,2022-06-02,19:00,Friendlies (M),Friendlies (M),Thu,Neutral,L,1,4,jp Japan,,24511.0,Miguel Almirón,4-2-3-1,Chris Beath,Match Report,,,,,0,0,2022,Paraguay 
+423,2022-06-10,20:00,Friendlies (M),Friendlies (M),Fri,Neutral,D,2,2,kr Korea Republic,,40228.0,Gustavo Gómez,4-2-3-1,Jérémie Pignard,Match Report,,,,,0,0,2022,Paraguay 
+424,2022-08-31,21:00,Friendlies (M),Friendlies (M),Wed,Neutral,W,1,0,mx Mexico,,51387.0,Richard Ortiz,4-2-3-1,Nima Saghafi,Match Report,,,,,0,0,2022,Paraguay 
+425,2022-09-23,18:00,Friendlies (M),Friendlies (M),Fri,Neutral,W,1,0,ae UAE,,,Gustavo Gómez,4-2-2-2,Harald Lechner,Match Report,,,,,0,0,2022,Paraguay 
+426,2022-09-27,21:00,Friendlies (M),Friendlies (M),Tue,Neutral,D,0,0,ma Morocco,,,Gustavo Gómez,4-1-4-1,Jesús Gil,Match Report,,,,,0,0,2022,Paraguay 
+427,2022-11-16,20:00,Friendlies (M),Friendlies (M),Wed,Neutral,L,0,1,pe Peru,,,Gustavo Gómez,4-2-3-1,Jhon Ospina,Match Report,,,,,0,0,2022,Paraguay 
+428,2022-11-19,20:00,Friendlies (M),Friendlies (M),Sat,Neutral,L,0,2,co Colombia,,,Gustavo Gómez,4-4-2,Rubiel Vázquez,Match Report,,,,,0,0,2022,Paraguay 
+429,2023-03-23,20:30,Friendlies (M),Friendlies (M),Thu,Home,W,2,0,pa Panama,,83214.0,Lionel Messi,4-3-3,Christian Ferreyra,Match Report,,,,,0,0,2023,Argentina 
+430,2023-03-28,20:30,Friendlies (M),Friendlies (M),Tue,Home,W,7,0,cw Curaçao,,43000.0,Lionel Messi,4-1-3-2,Gustavo Tejera,Match Report,,,,,1,1,2023,Argentina 
+431,2023-06-15,09:00,Friendlies (M),Friendlies (M),Thu,Neutral,W,2,0,au Australia,,51385.0,Lionel Messi,4-2-2-2,Ma Ning,Match Report,,,,,0,0,2023,Argentina 
+432,2023-06-19,19:30,Friendlies (M),Friendlies (M),Mon,Away,W,2,0,id Indonesia,,56080.0,Germán Pezzella,4-1-4-1,Usaid Jamal,Match Report,,,,,0,0,2023,Argentina 
+433,2023-06-27,19:00,Gold Cup,Group stage,Tue,Neutral,D,2,2,gp Guadeloupe,56.0,15301.0,Milan Borjan,3-5-2,Rubiel Vázquez,Match Report,,17.0,5.0,,0,0,2023,Canada 
+434,2023-07-01,20:30,Gold Cup,Group stage,Sat,Neutral,D,0,0,gt Guatemala,56.0,19766.0,Milan Borjan,3-5-2,Marco Ortíz,Match Report,,9.0,3.0,,0,0,2023,Canada 
+435,2023-07-04,17:30,Gold Cup,Group stage,Tue,Neutral,W,4,2,cu Cuba,62.0,,Junior Hoilett,4-4-2,Keylor Herrera,Match Report,,14.0,9.0,,1,1,2023,Canada 
+436,2023-07-09,19:30,Gold Cup,Quarter-finals,Sun,Neutral,D,2 (2),2 (3),us United States,33.0,,Junior Hoilett,3-5-2,Marco Ortíz,Match Report,United States won on penalty kicks following extra time,5.0,2.0,,1,1,2023,Canada 
+437,2023-10-13,19:35,Friendlies (M),Friendlies (M),Fri,Away,L,1,4,jp Japan,,37125.0,Milan Borjan,3-3-2-2,Alex King,Match Report,,,,,0,1,2023,Canada 
+438,2023-03-27,21:30,Friendlies (M),Friendlies (M),Mon,Home,W,3,2,py Paraguay,,30000.0,Claudio Bravo,4-4-2,Flavio Rodrigues de Souza,Match Report,,,,,0,0,2023,Chile 
+439,2023-06-11,19:00,Friendlies (M),Friendlies (M),Sun,Home,W,3,0,cu Cuba,,25000.0,Eugenio Mena,4-2-3-1,Andrés Merlos,Match Report,,,,,0,0,2023,Chile 
+440,2023-06-16,20:30,Friendlies (M),Friendlies (M),Fri,Home,W,5,0,do Dominican Rep.,,18000.0,Gary Medel,4-4-2◆,Nicolás Lamolina,Match Report,,,,,1,1,2023,Chile 
+441,2023-06-20,20:00,Friendlies (M),Friendlies (M),Tue,Away,D,0,0,bo Bolivia,,35000.0,Gary Medel,4-4-2◆,José Argote,Match Report,,,,,0,0,2023,Chile 
+442,2023-03-25,20:45,Friendlies (M),Friendlies (M),Sat,Away,L,0,2,de Germany,,25358.0,Pedro Gallese,5-4-1,Maria Sole Ferrieri Caputi,Match Report,,,,,0,0,2023,Peru 
+443,2023-03-28,21:30,Friendlies (M),Friendlies (M),Tue,Neutral,D,0,0,ma Morocco,,32000.0,Pedro Gallese,4-2-3-1,Juan Martínez,Match Report,,,,,0,0,2023,Peru 
+444,2023-06-16,20:00,Friendlies (M),Friendlies (M),Fri,Away,W,1,0,kr Korea Republic,,52443.0,Paolo Guerrero,4-2-3-1,Shaun Evans,Match Report,,,,,0,0,2023,Peru 
+445,2023-06-20,18:55,Friendlies (M),Friendlies (M),Tue,Away,L,1,4,jp Japan,,35001.0,Paolo Guerrero,4-2-3-1,Khamis Mohammed Al Marri,Match Report,,,,,0,0,2023,Peru 
+446,2023-03-24,22:00,Friendlies (M),Friendlies (M),Fri,Away,W,2,1,sa Saudi Arabia,,4960.0,Tomás Rincón,4-4-2,Ahmed Abu Bakar Al Kaf,Match Report,,,,,0,0,2023,Venezuela 
+447,2023-03-28,21:00,Friendlies (M),Friendlies (M),Tue,Neutral,D,1,1,uz Uzbekistan,,,Salomón Rondón,4-1-4-1,Khalid Saleh Al Turais,Match Report,,,,,0,0,2023,Venezuela 
+448,2023-06-15,20:00,Friendlies (M),Friendlies (M),Thu,Neutral,W,1,0,hn Honduras,,,Salomón Rondón,4-3-3,Jaime Herrera,Match Report,,,,,0,0,2023,Venezuela 
+449,2023-06-18,16:30,Friendlies (M),Friendlies (M),Sun,Neutral,W,1,0,gt Guatemala,,,Tomás Rincón,4-2-2-2,Jeremy Scheer,Match Report,,,,,0,0,2023,Venezuela 
+450,2023-03-24,20:00,Friendlies (M),Friendlies (M),Fri,Away,L,1,3,au Australia,,20668.0,Ángel Mena,4-3-3,Kim Daeyong,Match Report,,,,,0,0,2023,Ecuador 
+451,2023-03-28,19:30,Friendlies (M),Friendlies (M),Tue,Away,W,2,1,au Australia,,27103.0,Pervis Estupiñán,3-1-4-2,Chae Sanghyeop,Match Report,,,,,1,1,2023,Ecuador 
+452,2023-06-17,19:30,Friendlies (M),Friendlies (M),Sat,Neutral,W,1,0,bo Bolivia,,20000.0,Carlos Gruezo,3-4-3,Víctor Rivas,Match Report,,,,,0,0,2023,Ecuador 
+453,2023-06-20,20:15,Friendlies (M),Friendlies (M),Tue,Neutral,W,3,1,cr Costa Rica,,10000.0,Enner Valencia,3-5-2,Víctor Cáceres,Match Report,,,,,0,0,2023,Ecuador 
+454,2023-04-19,19:00,Friendlies (M),Friendlies (M),Wed,Away,D,1,1,us United States,,55730.0,Carlos Acevedo,3-5-2,Bryan López,Match Report,,,,,0,0,2023,Mexico 
+455,2023-06-07,20:00,Friendlies (M),Friendlies (M),Wed,Home,W,2,0,gt Guatemala,,20068.0,Raúl Jiménez,5-4-1,Nelson Salgado,Match Report,,,,,1,1,2023,Mexico 
+456,2023-06-10,19:00,Friendlies (M),Friendlies (M),Sat,Neutral,D,2,2,cm Cameroon,,30543.0,Néstor Araujo,3-4-3,Kimbell Ward,Match Report,,,,,0,0,2023,Mexico 
+457,2023-06-25,19:00,Gold Cup,Group stage,Sun,Neutral,W,4,0,hn Honduras,54.0,66255.0,Guillermo Ochoa,4-1-4-1,Mario Escobar,Match Report,,17.0,6.0,,0,0,2023,Mexico 
+458,2023-06-29,19:00,Gold Cup,Group stage,Thu,Neutral,W,3,1,ht Haiti,65.0,34517.0,Guillermo Ochoa,4-3-3,Walter López,Match Report,,32.0,10.0,,0,0,2023,Mexico 
+459,2023-07-02,18:00,Gold Cup,Group stage,Sun,Neutral,L,0,1,qa Qatar,76.0,60347.0,Guillermo Ochoa,4-2-3-1,Drew Fischer,Match Report,,25.0,6.0,,0,0,2023,Mexico 
+460,2023-07-08,20:30,Gold Cup,Quarter-finals,Sat,Neutral,W,2,0,cr Costa Rica,51.0,60355.0,Guillermo Ochoa,4-1-4-1,Said Martínez,Match Report,,14.0,8.0,,1,1,2023,Mexico 
+461,2023-07-12,19:00,Gold Cup,Semi-finals,Wed,Neutral,W,3,0,jm Jamaica,55.0,,Guillermo Ochoa,4-4-2,Mario Escobar,Match Report,,13.0,5.0,,0,0,2023,Mexico 
+462,2023-07-16,16:30,Gold Cup,Final,Sun,Neutral,W,1,0,pa Panama,52.0,,Guillermo Ochoa,4-3-3,Said Martínez,Match Report,,23.0,7.0,,0,0,2023,Mexico 
+463,2023-09-09,21:00,Friendlies (M),Friendlies (M),Sat,Neutral,D,2,2,au Australia,,52787.0,Guillermo Ochoa,4-1-4-1,Rubiel Vázquez,Match Report,,,,,1,2,2023,Mexico 
+464,2023-09-12,20:00,Friendlies (M),Friendlies (M),Tue,Neutral,D,3,3,uz Uzbekistan,,33817.0,Guillermo Ochoa,4-1-4-1,Víctor Rivas,Match Report,,,,,0,0,2023,Mexico 
+465,2023-10-14,20:30,Friendlies (M),Friendlies (M),Sat,Neutral,W,2,0,gh Ghana,,60263.0,Guillermo Ochoa,4-1-4-1,Joe Dickerson,Match Report,,,,,0,0,2023,Mexico 
+466,2023-10-17,20:00,Friendlies (M),Friendlies (M),Tue,Neutral,D,2,2,de Germany,,62284.0,Guillermo Ochoa,4-2-3-1,Rubiel Vázquez,Match Report,,,,,0,0,2023,Mexico 
+467,2023-06-15,18:00,Friendlies (M),Friendlies (M),Thu,Neutral,L,1,2,qa Qatar,,,Adrian Mariappa,4-2-2-2,Stefan Ebner,Match Report,,,,,1,1,2023,Jamaica 
+468,2023-06-24,20:30,Gold Cup,Group stage,Sat,Neutral,D,1,1,us United States,32.0,36666.0,Andre Blake,4-2-2-2,César Arturo Ramos,Match Report,,6.0,3.0,,0,1,2023,Jamaica 
+469,2023-06-28,18:30,Gold Cup,Group stage,Wed,Neutral,W,4,1,tt Trin & Tobago,53.0,21216.0,Andre Blake,4-4-2,Fernando Guerrero,Match Report,,13.0,6.0,,0,0,2023,Jamaica 
+470,2023-07-02,16:00,Gold Cup,Group stage,Sun,Neutral,W,5,0,kn St. Kitts & Nevis,67.0,60347.0,Adrian Mariappa,4-2-3-1,Adonai Escobedo,Match Report,,18.0,6.0,,0,0,2023,Jamaica 
+471,2023-07-09,17:00,Gold Cup,Quarter-finals,Sun,Neutral,W,1,0,gt Guatemala,44.0,,Andre Blake,4-4-2,Drew Fischer,Match Report,,18.0,3.0,,0,0,2023,Jamaica 
+472,2023-07-12,19:00,Gold Cup,Semi-finals,Wed,Neutral,L,0,3,mx Mexico,45.0,,Andre Blake,4-4-2,Mario Escobar,Match Report,,8.0,3.0,,0,0,2023,Jamaica 
+473,2023-03-24,19:30,Friendlies (M),Friendlies (M),Fri,Away,D,1,1,jp Japan,,61855.0,Federico Valverde,4-2-3-1,Ko Hyungjin,Match Report,,,,,0,0,2023,Uruguay 
+474,2023-03-28,20:00,Friendlies (M),Friendlies (M),Tue,Away,W,2,1,kr Korea Republic,,63952.0,Federico Valverde,4-2-3-1,Yūsuke Araki,Match Report,,,,,0,0,2023,Uruguay 
+475,2023-06-14,20:30,Friendlies (M),Friendlies (M),Wed,Home,W,4,1,ni Nicaragua,,40000.0,Matías Viña,4-2-3-1,Wagner do Nascimento Magalhães,Match Report,,,,,0,1,2023,Uruguay 
+476,2023-06-20,20:30,Friendlies (M),Friendlies (M),Tue,Home,W,2,0,cu Cuba,,20000.0,Sergio Rochet,4-3-3,Braulio da Silva Machado,Match Report,,,,,1,1,2023,Uruguay 
+477,2023-03-23,20:30,Friendlies (M),Friendlies (M),Thu,Away,L,0,2,ar Argentina,,83214.0,Jiovany Ramos,5-4-1,Christian Ferreyra,Match Report,,,,,0,0,2023,Panama 
+478,2023-06-10,19:00,Friendlies (M),Friendlies (M),Sat,Home,W,3,2,ni Nicaragua,,3000.0,Erick Davis,3-4-3,David Gómez,Match Report,,,,,0,0,2023,Panama 
+479,2023-06-26,20:30,Gold Cup,Group stage,Mon,Neutral,W,2,1,cr Costa Rica,61.0,10101.0,Aníbal Godoy,5-4-1,Drew Fischer,Match Report,,15.0,10.0,,0,0,2023,Panama 
+480,2023-06-30,18:30,Gold Cup,Group stage,Fri,Neutral,W,2,1,mq Martinique,70.0,22615.0,Aníbal Godoy,3-4-3,Said Martínez,Match Report,,16.0,5.0,,0,0,2023,Panama 
+481,2023-07-04,19:30,Gold Cup,Group stage,Tue,Neutral,D,2,2,sv El Salvador,59.0,,Harold Cummings,3-4-3,Walter López,Match Report,,14.0,2.0,,0,0,2023,Panama 
+482,2023-07-08,18:00,Gold Cup,Quarter-finals,Sat,Neutral,W,4,0,qa Qatar,62.0,,Aníbal Godoy,3-4-3,César Arturo Ramos,Match Report,,17.0,6.0,,0,0,2023,Panama 
+483,2023-07-12,16:30,Gold Cup,Semi-finals,Wed,Neutral,D,1 (5),1 (4),us United States,56.0,,Aníbal Godoy,3-4-3,Walter López,Match Report,Panama won on penalty kicks following extra time,12.0,5.0,,0,0,2023,Panama 
+484,2023-07-16,16:30,Gold Cup,Final,Sun,Neutral,L,0,1,mx Mexico,48.0,,Aníbal Godoy,3-4-3,Said Martínez,Match Report,,14.0,2.0,,0,0,2023,Panama 
+485,2023-08-27,16:00,Friendlies (M),Friendlies (M),Sun,Away,W,2,1,bo Bolivia,,8000.0,Rolando Blackburn,3-4-3,Pablo Echavarría,Match Report,,,,,0,0,2023,Panama 
+486,2023-01-25,19:07,Friendlies (M),Friendlies (M),Wed,Home,L,1,2,rs Serbia,,11475.0,Walker Zimmerman,4-1-4-1,Daneon Parchment,Match Report,,,,,0,0,2023,United-States 
+487,2023-01-28,16:30,Friendlies (M),Friendlies (M),Sat,Home,D,0,0,co Colombia,,27000.0,Kellyn Acosta,4-1-4-1,Said Martínez,Match Report,,,,,0,0,2023,United-States 
+488,2023-04-19,19:00,Friendlies (M),Friendlies (M),Wed,Home,D,1,1,mx Mexico,,55730.0,Walker Zimmerman,4-2-3-1,Bryan López,Match Report,,,,,0,0,2023,United-States 
+489,2023-06-24,20:30,Gold Cup,Group stage,Sat,Neutral,D,1,1,jm Jamaica,68.0,36666.0,Matt Turner,4-2-3-1,César Arturo Ramos,Match Report,,13.0,4.0,,0,0,2023,United-States 
+490,2023-06-28,20:30,Gold Cup,Group stage,Wed,Neutral,W,6,0,kn St. Kitts & Nevis,66.0,21216.0,Sean Johnson,4-3-3,Juan Gabriel Calderón,Match Report,,34.0,15.0,,0,0,2023,United-States 
+491,2023-07-02,19:00,Gold Cup,Group stage,Sun,Neutral,W,6,0,tt Trin & Tobago,67.0,40243.0,Matt Turner,4-3-3,Mario Escobar,Match Report,,23.0,8.0,,1,1,2023,United-States 
+492,2023-07-09,19:30,Gold Cup,Quarter-finals,Sun,Neutral,D,2 (3),2 (2),ca Canada,67.0,,Matt Turner,4-3-3,Marco Ortíz,Match Report,United States won on penalty kicks following extra time,21.0,8.0,,0,0,2023,United-States 
+493,2023-07-12,16:30,Gold Cup,Semi-finals,Wed,Neutral,D,1 (4),1 (5),pa Panama,44.0,,Matt Turner,4-3-3,Walter López,Match Report,Panama won on penalty kicks following extra time,14.0,3.0,,0,0,2023,United-States 
+494,2023-09-09,16:30,Friendlies (M),Friendlies (M),Sat,Home,W,3,0,uz Uzbekistan,,15569.0,Tim Ream,4-1-4-1,Nelson Salgado,Match Report,,,,,1,1,2023,United-States 
+495,2023-09-12,19:37,Friendlies (M),Friendlies (M),Tue,Home,W,4,0,om Oman,,13665.0,Christian Pulisic,4-1-4-1,Mario Escobar,Match Report,,,,,0,0,2023,United-States 
+496,2023-10-14,14:00,Friendlies (M),Friendlies (M),Sat,Home,L,1,3,de Germany,,37743.0,Christian Pulisic,4-1-4-1,Fernando Guerrero,Match Report,,,,,0,0,2023,United-States 
+497,2023-10-17,19:30,Friendlies (M),Friendlies (M),Tue,Home,W,4,0,gh Ghana,,17500.0,Christian Pulisic,4-2-3-1,Marco Antonio Ortíz,Match Report,,,,,1,1,2023,United-States 
+498,2023-03-24,21:00,Friendlies (M),Friendlies (M),Fri,Neutral,L,0,1,uz Uzbekistan,,,Marcelo Martins Moreno,4-1-4-1,Faisal Suleiman Al Balawi,Match Report,,,,,0,0,2023,Bolivia 
+499,2023-03-28,22:00,Friendlies (M),Friendlies (M),Tue,Away,W,2,1,sa Saudi Arabia,,,Marcelo Martins Moreno,3-5-2,Ahmed Eisa Darwish,Match Report,,,,,0,0,2023,Bolivia 
+500,2023-06-17,19:30,Friendlies (M),Friendlies (M),Sat,Neutral,L,0,1,ec Ecuador,,20000.0,Carlos Lampe,3-4-3,Víctor Rivas,Match Report,,,,,0,0,2023,Bolivia 
+501,2023-06-20,20:00,Friendlies (M),Friendlies (M),Tue,Home,D,0,0,cl Chile,,35000.0,Marcelo Martins Moreno,3-5-2,José Argote,Match Report,,,,,0,0,2023,Bolivia 
+502,2023-08-27,16:00,Friendlies (M),Friendlies (M),Sun,Home,L,1,2,pa Panama,,8000.0,Adrian Jusino,3-5-2,Pablo Echavarría,Match Report,,,,,0,0,2023,Bolivia 
+503,2023-01-28,16:30,Friendlies (M),Friendlies (M),Sat,Away,D,0,0,us United States,,27000.0,Frank Fabra,4-1-4-1,Said Martínez,Match Report,,,,,0,0,2023,Colombia 
+504,2023-03-24,20:00,Friendlies (M),Friendlies (M),Fri,Away,D,2,2,kr Korea Republic,,35727.0,James Rodríguez,4-2-3-1,Jumpei Iida,Match Report,,,,,0,0,2023,Colombia 
+505,2023-03-28,19:20,Friendlies (M),Friendlies (M),Tue,Away,W,2,1,jp Japan,,20005.0,Mateus Uribe,4-1-4-1,Taqi Aljaafari,Match Report,,,,,0,0,2023,Colombia 
+506,2023-06-16,14:00,Friendlies (M),Friendlies (M),Fri,Neutral,W,1,0,iq Iraq,,14000.0,Juan Cuadrado,4-1-4-1,Miguel Nogueira,Match Report,,,,,0,0,2023,Colombia 
+507,2023-06-20,20:45,Friendlies (M),Friendlies (M),Tue,Away,W,2,0,de Germany,,50421.0,Juan Cuadrado,4-2-2-2,Halil Umut Meler,Match Report,,,,,1,1,2023,Colombia 
+508,2023-03-25,22:00,Friendlies (M),Friendlies (M),Sat,Away,L,1,2,ma Morocco,,65000.0,Casemiro,4-1-4-1,Sadek Selmi,Match Report,,,,,0,0,2023,Brazil 
+509,2023-06-17,16:30,Friendlies (M),Friendlies (M),Sat,Neutral,W,4,1,gn Guinea,,11000.0,Casemiro,4-1-4-1,Andris Treimanis,Match Report,,,,,1,1,2023,Brazil 
+510,2023-06-20,20:00,Friendlies (M),Friendlies (M),Tue,Neutral,L,2,4,sn Senegal,,35000.0,Marquinhos,4-3-3,Gustavo Correia,Match Report,,,,,0,0,2023,Brazil 
+511,2023-06-15,20:00,Friendlies (M),Friendlies (M),Thu,Neutral,L,0,1,gt Guatemala,,,Kendall Waston,5-4-1,Nima Saghafi,Match Report,,,,,0,0,2023,Costa-Rica 
+512,2023-06-20,20:15,Friendlies (M),Friendlies (M),Tue,Neutral,L,1,3,ec Ecuador,,10000.0,Kendall Waston,5-4-1,Víctor Cáceres,Match Report,,,,,0,0,2023,Costa-Rica 
+513,2023-06-26,20:30,Gold Cup,Group stage,Mon,Neutral,L,1,2,pa Panama,39.0,10101.0,Celso Borges,3-4-3,Drew Fischer,Match Report,,6.0,4.0,,0,0,2023,Costa-Rica 
+514,2023-06-30,20:30,Gold Cup,Group stage,Fri,Neutral,D,0,0,sv El Salvador,52.0,22615.0,Celso Borges,3-4-3,César Arturo Ramos,Match Report,,12.0,3.0,,0,0,2023,Costa-Rica 
+515,2023-07-04,20:30,Gold Cup,Group stage,Tue,Neutral,W,6,4,mq Martinique,56.0,,Celso Borges,4-2-3-1,Bryan López,Match Report,,13.0,7.0,,1,1,2023,Costa-Rica 
+516,2023-07-08,20:30,Gold Cup,Quarter-finals,Sat,Neutral,L,0,2,mx Mexico,49.0,60355.0,Celso Borges,4-2-3-1,Said Martínez,Match Report,,9.0,1.0,,0,0,2023,Costa-Rica 
+517,2023-09-08,20:00,Friendlies (M),Friendlies (M),Fri,Neutral,W,3,1,sa Saudi Arabia,,5000.0,Keylor Navas,4-2-3-1,John Brooks,Match Report,,,,,0,0,2023,Costa-Rica 
+518,2023-09-12,17:00,Friendlies (M),Friendlies (M),Tue,Neutral,L,1,4,ae UAE,,,Keylor Navas,4-2-3-1,Ante Čulina,Match Report,,,,,0,0,2023,Costa-Rica 
+519,2023-03-27,21:30,Friendlies (M),Friendlies (M),Mon,Away,L,2,3,cl Chile,,30000.0,Gustavo Gómez,4-2-3-1,Flavio Rodrigues de Souza,Match Report,,,,,0,0,2023,Paraguay 
+520,2023-06-18,10:30,Friendlies (M),Friendlies (M),Sun,Home,W,2,0,ni Nicaragua,,,Gustavo Gómez,4-1-4-1,Gustavo Tejera,Match Report,,,,,0,0,2023,Paraguay 
